@@ -12,6 +12,16 @@ class EafReader():
         self.filename = filename
         self.xtree = et.parse(os.path.join(*path.split(os.path.sep),self.filename))
         self.xroot = self.xtree.getroot()
+
+    def data_time(self):
+
+        ts = []
+        for node in self.xroot:
+            for child in node.getchildren():
+                ts.append(child.attrib)
+        data_time = pd.DataFrame([el for el in ts if len(el.keys()) > 0 if list(el.keys())[0].startswith('TIME')])
+        return data_time
+
     def parser(self,attribute):
         """
         the parser method is used to parse the data from the EAF file
@@ -26,6 +36,7 @@ class EafReader():
                     annot_df.append(k.attrib)
                     annot.append(k.find('ANNOTATION_VALUE').text)
         return annot, annot_df
+
     def dataframe_creator(self,annot,AnnotDf,annot_type='dstr'):
 
         """
@@ -37,6 +48,7 @@ class EafReader():
 
         annot_df = pd.DataFrame(AnnotDf)
         annot_df[annot_type] = annot
+        data_time = self.data_time()
         annot_df = pd.merge(annot_df,data_time,
                             left_on='TIME_SLOT_REF1',
                             right_on='TIME_SLOT_ID',
@@ -54,16 +66,3 @@ class EafReader():
         annot_df[['Begin Time', 'End Time']] = annot_df[['Begin Time', 'End Time']].apply(lambda x: x.astype('int64'))
         annot_df['Nr'] = annot_df.index + 1
         return annot_df
-
-def insert_indf(df,match_rule,df_to_insert_pre,df_to_insert_post,subst = False):
-    index = df.loc[match_rule,:].index
-    for el in index:
-        if not subst:
-            upp_df = df.loc[:el,:]
-            low_df = df.loc[el+1:,:]
-        else:
-            upp_df = df.loc[:el-1,:]
-            low_df = df.loc[el+1:,:]
-        df = pd.concat([upp_df,df_to_insert_pre.loc[el],df_to_insert_post.loc[el],low_df])
-    #df = df.reset_index(drop=True)
-    return df
