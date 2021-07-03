@@ -26,7 +26,7 @@ class EafReader():
                     annot_df.append(k.attrib)
                     annot.append(k.find('ANNOTATION_VALUE').text)
         return annot, annot_df
-    def dataframe_creator(self,annot,AnnotDf):
+    def dataframe_creator(self,annot,AnnotDf,annot_type='dstr'):
 
         """
         This method creates a pandas Data Frame with all the necessary data.
@@ -36,13 +36,13 @@ class EafReader():
         """
 
         annot_df = pd.DataFrame(AnnotDf)
-        annot_df['dstr'] = annot
+        annot_df[annot_type] = annot
         annot_df = pd.merge(annot_df,data_time,
                             left_on='TIME_SLOT_REF1',
                             right_on='TIME_SLOT_ID',
                             how='left')
         annot_df = annot_df.rename(columns={'TIME_VALUE':'Begin Time',
-                                            'annotation':'dstr'}).drop('TIME_SLOT_ID',axis=1)
+                                            'annotation':annot_type}).drop('TIME_SLOT_ID',axis=1)
         annot_df = pd.merge(annot_df,
                             data_time,
                             left_on='TIME_SLOT_REF2',
@@ -51,5 +51,7 @@ class EafReader():
         annot_df.drop(['TIME_SLOT_REF1','TIME_SLOT_REF2','TIME_SLOT_ID'],
                       axis=1,
                       inplace=True)
+        annot_df[['Begin Time', 'End Time']] = annot_df[['Begin Time', 'End Time']].apply(lambda x: x.astype('int64'))
+        annot_df['Nr'] = annot_df.index + 1
         return annot_df
 
