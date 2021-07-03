@@ -55,3 +55,15 @@ class EafReader():
         annot_df['Nr'] = annot_df.index + 1
         return annot_df
 
+def insert_indf(df,match_rule,df_to_insert_pre,df_to_insert_post,subst = False):
+    index = df.loc[match_rule,:].index
+    for el in index:
+        if not subst:
+            upp_df = df.loc[:el,:]
+            low_df = df.loc[el+1:,:]
+        else:
+            upp_df = df.loc[:el-1,:]
+            low_df = df.loc[el+1:,:]
+        df = pd.concat([upp_df,df_to_insert_pre.loc[el],df_to_insert_post.loc[el],low_df])
+    #df = df.reset_index(drop=True)
+    return df
