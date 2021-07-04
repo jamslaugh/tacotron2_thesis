@@ -3,15 +3,17 @@ import os
 import pandas as pd
 class EafReader():
 
-    def __init__(self,filename,path):
+    def __init__(self,filename,path,text_file=False):
         """
         Class to reat EAF files into python pandas. It can also be subqueried.
         :param filename: a string, the filename which we are pointing towards
         :param path: a string, the path to the file.
         """
         self.filename = filename
-        self.xtree = et.parse(os.path.join(*path.split(os.path.sep),self.filename))
-        self.xroot = self.xtree.getroot()
+        self.filepath = os.path.join(*path.split(os.path.sep), self.filename)
+        if not text_file:
+            self.xtree = et.parse(self.filepath)
+            self.xroot = self.xtree.getroot()
 
     def data_time(self):
 
@@ -65,4 +67,12 @@ class EafReader():
                       inplace=True)
         annot_df[['Begin Time', 'End Time']] = annot_df[['Begin Time', 'End Time']].apply(lambda x: x.astype('int64'))
         annot_df['Nr'] = annot_df.index + 1
+
         return annot_df
+
+    def csv_reader(self):
+
+        df = pd.read_csv(self.filepath,sep='\t')
+        df = df.dropna(how='all', axis=1)
+
+        return df
