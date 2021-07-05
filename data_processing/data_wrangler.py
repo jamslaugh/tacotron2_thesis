@@ -3,8 +3,6 @@ from research_preprocessing.conciliator import *
 from research_preprocessing.data_ingestion import inserted_df
 from research_preprocessing.data_loader import EafReader
 
-import pandas as pd
-import numpy as np
 import os
 
 ## Data Load
@@ -48,10 +46,30 @@ def DataLoad(filename,path,keys_to_search=['dstr','ORT'],text_file = False):
 
     return OUTPUT_DICT
 
-if __name__ == '__main__':
-    output_dir = DataLoad('G01V01P01','.\Data EAF\Training Data - EAF',keys_to_search=['dstr','ORT'],text_file = True)
-    conc_data = conciliator(output_dir['dstr'],output_dir['ort'])
-    ort_data_new = inserted_df(output_dir['ort'])
+def data_wrangle(output_dict,token=True):
+    """
+    This function is used to wrangle data and prepare the output for the Tacotron 2 algorythm
+    :param output_dict: a dictionary containing dstr and ort keys
+    :param token: bool type, if the <PRL> token has to be inserted or not. If False inserts the prolongation per se.
+    :return: ort_data_new a Data Frame with processed data
+    """
+    conc_data = conciliator(output_dict['dstr'],output_dict['ort'])
+    ort_data_new = inserted_df(output_dict['ort'])
     ort_data_new = time_conciliation(ort_data_new,conc_data)
-    ort_data_new.to_csv(os.path.join('preprocessing_results','trial.csv'))
+    ort_data_new['Duration'] = ort_data_new['End Time'] - ort_data_new['Begin Time']
+    if token:
+        ort_data_new.ORT = ort_data_new.ORT.fillna('<PRL>')
+    else:
+        ort_data_new.ORT = ort_data_new.ORT.fillna(ort_data_new.iloc[:,0].dropna())
+    ort_data_new.ORT = ort_data_new.ORT.str.replace(r'(\w+)(\s)(\<.*\>)', r'\1')
+    ort_data_new.ORT = ort_data_new.ORT.str.replace(r'(\w+)(\<.*\>)', r'\1')
+    return ort_data_new
+    #ort_data_new.to_csv(os.path.join('../preprocessing_results', 'trial.csv'))
+    # filename G01V01P01, ..\..\Data EAF\Training Data EAF
 #TODO: Implement ort_data_new post processing cleaning. To be decided whether prl token or not.
+
+if __name__ == '__main__':
+    out_filename, out_path = 'G01V01P01', 'Data EAF\Training Data - EAF'
+    out_dict = output_dict = DataLoad(out_filename, out_path, keys_to_search=['dstr', 'ORT'], text_file = True)
+    ort_data_new = data_wrangler(out_dict, token=False)
+    ort_data_new.to_csv(os.path.join('', 'preprocessing_results/trial.csv'))
