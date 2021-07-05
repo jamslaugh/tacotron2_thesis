@@ -11,15 +11,19 @@ class EafReader():
         """
         self.filename = filename
         self.filepath = os.path.join(*path.split(os.path.sep), self.filename)
+
         if not text_file:
-            self.xtree = et.parse(self.filepath)
-            self.xroot = self.xtree.getroot()
+            try:
+                self.xtree = et.parse(self.filepath)
+                self.xroot = self.xtree.getroot()
+            except:
+                raise Exception('Please specify a valid filename and/or path')
 
     def data_time(self):
 
         ts = []
         for node in self.xroot:
-            for child in node.getchildren():
+            for child in node.getchildren(): #TODO fix here!
                 ts.append(child.attrib)
         data_time = pd.DataFrame([el for el in ts if len(el.keys()) > 0 if list(el.keys())[0].startswith('TIME')])
         return data_time

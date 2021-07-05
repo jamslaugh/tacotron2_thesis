@@ -3,8 +3,6 @@ from research_preprocessing.conciliator import *
 from research_preprocessing.data_ingestion import inserted_df
 from research_preprocessing.data_loader import EafReader
 
-import os
-
 ## Data Load
 
 def DataLoad(filename,path,keys_to_search=['dstr','ORT'],text_file = False):
@@ -30,7 +28,7 @@ def DataLoad(filename,path,keys_to_search=['dstr','ORT'],text_file = False):
         for key in keys_to_search:
 
             annot, annot_df = rdr.parser(key)
-            DF = rdr.dataframe_creator(annot, annot_df, annot_type=key.lower())
+            DF = rdr.dataframe_creator(annot, annot_df, annot_type=key)
 
             OUTPUT_DICT[key.lower()] = DF
     else:
@@ -66,10 +64,3 @@ def data_wrangle(output_dict,token=True):
     return ort_data_new
     #ort_data_new.to_csv(os.path.join('../preprocessing_results', 'trial.csv'))
     # filename G01V01P01, ..\..\Data EAF\Training Data EAF
-#TODO: Implement ort_data_new post processing cleaning. To be decided whether prl token or not.
-
-if __name__ == '__main__':
-    out_filename, out_path = 'G01V01P01', 'Data EAF\Training Data - EAF'
-    out_dict = output_dict = DataLoad(out_filename, out_path, keys_to_search=['dstr', 'ORT'], text_file = True)
-    ort_data_new = data_wrangler(out_dict, token=False)
-    ort_data_new.to_csv(os.path.join('', 'preprocessing_results/trial.csv'))
