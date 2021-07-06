@@ -1,6 +1,8 @@
 import xml.etree.ElementTree as et
 import os
 import pandas as pd
+import sys
+
 class EafReader():
 
     def __init__(self,filename,path,text_file=False):
@@ -17,7 +19,10 @@ class EafReader():
                 self.xtree = et.parse(self.filepath)
                 self.xroot = self.xtree.getroot()
             except:
-                raise Exception('Please specify a valid filename and/or path')
+                raise Exception(f'Please specify a valid filename and/or path.\n File: {self.filename} \n ' +
+                                f'@ path: {self.filepath} is invalid.\n\n' +
+                                f' This is the error:\n {sys.exc_info()[1]}\n{sys.exc_info()[2]}\n\n' +
+                                f'The DIRECTORIES queried are\n {os.listdir()},\n\n while the WORKING DIR is {os.getcwd()}')
 
     def data_time(self):
 
@@ -75,8 +80,14 @@ class EafReader():
         return annot_df
 
     def csv_reader(self):
+        try:
+            df = pd.read_csv(self.filepath,sep='\t')
+        except:
+            raise Exception(f'Please specify a valid filename and/or path.\n File: {self.filename} \n ' +
+                            f'@ path: {self.filepath} is invalid.\n\n' +
+                            f' This is the error:\n {sys.exc_info()[1]}\n{sys.exc_info()[2]}\n\n'+
+                            f'The DIRECTORIES queried are\n {os.listdir()},\n\n while the WORKING DIR is {os.getcwd()}')
 
-        df = pd.read_csv(self.filepath,sep='\t')
         df = df.dropna(how='all', axis=1)
 
         return df

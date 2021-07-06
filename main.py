@@ -20,10 +20,12 @@ if __name__ == '__main__':
     if text_file:
         out_dict = output_dict = DataLoad(out_filename, out_path, keys_to_search=['dstr', 'ORT'], text_file = True)
     else:
+        out_filename = out_filename + ".eaf"
         out_dict = output_dict = DataLoad(out_filename, out_path, keys_to_search=['dstr', 'ORT'], text_file=False)
     if token:
         ort_data_new = data_wrangle(out_dict, token=True)
     else:
         ort_data_new = data_wrangle(out_dict, token=False)
-
-    ort_data_new.to_csv(os.path.join('', 'preprocessing_results/trial.csv'))
+    ort_data_new['file'] = out_filename
+    ort_data_new=ort_data_new.drop(0,axis=1)
+    ort_data_new.to_csv(os.path.join('', 'preprocessing_results/trial.csv'),index=False)
