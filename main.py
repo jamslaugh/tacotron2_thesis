@@ -8,8 +8,10 @@ import re
 args = argparse.ArgumentParser(description='Process Data')
 # args.add_argument('file')
 args.add_argument('file_path')
-args.add_argument('--text_file',dest='text_file',type=bool,help='Tells wether text_file has to be considered or not')
-args.add_argument('--token',dest='token',type=bool,help='Tells wether token substitution has to be considered or not')
+args.add_argument('--text_file',dest='text_file',type=bool,
+                  help='Tells wether text_file has to be considered or not')
+args.add_argument('--token',dest='token',type=bool,
+                  help='Tells wether token substitution has to be considered or not')
 args.add_argument('--research_keys',dest='research_keys',nargs='+',default=['dstr','ORT'],
                   help='The list of keys to be searched')
 args.add_argument('--cfg_path',dest='cfg_file_path',default='config_file.txt',
@@ -19,7 +21,6 @@ args.add_argument('--debug',dest='debug',default=False,type=bool,
 def folder_reader(file_path,config_file_path='config_file.txt',text_file=True,token=True,research_keys=['dstr', 'ORT'],debug=False):
 
     with open(config_file_path,'r+') as file:
-
         files_list = file.read().split('\n')
 
     wav_reference = [re.sub(r'_.*',"",el) for el in files_list]
@@ -27,8 +28,11 @@ def folder_reader(file_path,config_file_path='config_file.txt',text_file=True,to
     for _ in range(len(files_list)):
 
         out_filename = files_list[_]
+
         if debug:
+
             print("Debugging, the filename is: ",out_filename)
+
         if text_file:
 
             out_dict = DataLoad(out_filename, file_path, keys_to_search=research_keys, text_file = True)
