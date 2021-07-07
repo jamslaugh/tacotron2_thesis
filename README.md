@@ -1,4 +1,4 @@
-# Tacotron 2 with linguistical disfluences
+# Tacotron 2 with linguistic disfluences
 
 In this thesis we assess how Tacotron 2 can address Linguistical disfluences.
 Disfluences come up with different flavors, in our work we only focus on prolongations.
