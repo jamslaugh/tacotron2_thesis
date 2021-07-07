@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as et
-import os
 import pandas as pd
 import sys
+import os
 
 class EafReader():
 
@@ -60,20 +60,33 @@ class EafReader():
         annot_df = pd.DataFrame(AnnotDf)
         annot_df[annot_type] = annot
         data_time = self.data_time()
-        annot_df = pd.merge(annot_df,data_time,
-                            left_on='TIME_SLOT_REF1',
-                            right_on='TIME_SLOT_ID',
-                            how='left')
-        annot_df = annot_df.rename(columns={'TIME_VALUE':'Begin Time',
-                                            'annotation':annot_type}).drop('TIME_SLOT_ID',axis=1)
-        annot_df = pd.merge(annot_df,
-                            data_time,
-                            left_on='TIME_SLOT_REF2',
-                            right_on='TIME_SLOT_ID',
-                            how='left').rename(columns={'TIME_VALUE':'End Time'})
-        annot_df.drop(['TIME_SLOT_REF1','TIME_SLOT_REF2','TIME_SLOT_ID'],
-                      axis=1,
-                      inplace=True)
+        try:
+
+            annot_df = pd.merge(annot_df,data_time,
+                                left_on='TIME_SLOT_REF1',
+                                right_on='TIME_SLOT_ID',
+                                how='left')
+
+            annot_df = annot_df.rename(columns={'TIME_VALUE':'Begin Time',
+                                                'annotation':annot_type}).drop('TIME_SLOT_ID',axis=1)
+
+            annot_df = pd.merge(annot_df,
+                                data_time,
+                                left_on='TIME_SLOT_REF2',
+                                right_on='TIME_SLOT_ID',
+                                how='left').rename(columns={'TIME_VALUE':'End Time'})
+
+            annot_df.drop(['TIME_SLOT_REF1','TIME_SLOT_REF2','TIME_SLOT_ID'],
+                          axis=1,
+                          inplace=True)
+
+        except:
+
+            raise Exception(f"\n\n The file {self.filename} generates the following exception:\n\n {sys.exc_info()}\n\n mostly caused by"+
+                            f"columns mismatch. In particular, data_time has the following columns:\n\n{data_time.columns}"+
+                            f"while annot_df has the following columns:\n\n {annot_df.columns}"+
+                            f"annot_df is \n\n {annot_df}\n\n, while data_time is\n\n {data_time.head()}")
+
         annot_df[['Begin Time', 'End Time']] = annot_df[['Begin Time', 'End Time']].apply(lambda x: x.astype('int64'))
         annot_df['Nr'] = annot_df.index + 1
 
