@@ -7,7 +7,7 @@ class EafReader():
 
     def __init__(self,filename,path,text_file=False):
         """
-        Class to reat EAF files into python pandas. It can also be subqueried.
+        Class to read EAF files into python pandas. It can also be subqueried.
         :param filename: a string, the filename which we are pointing towards
         :param path: a string, the path to the file.
         """
@@ -28,7 +28,7 @@ class EafReader():
 
         ts = []
         for node in self.xroot:
-            for child in node.getchildren(): #TODO fix here!
+            for child in node.getchildren():
                 ts.append(child.attrib)
         data_time = pd.DataFrame([el for el in ts if len(el.keys()) > 0 if list(el.keys())[0].startswith('TIME')])
         return data_time

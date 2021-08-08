@@ -3,8 +3,6 @@ import os
 import argparse
 import re
 
-#TODO: add text file with named files to convert them. Next, make the dataframe compatible to Tacotron 2.
-
 args = argparse.ArgumentParser(description='Process Data')
 # args.add_argument('file')
 args.add_argument('file_path')
@@ -18,6 +16,7 @@ args.add_argument('--cfg_path',dest='cfg_file_path',default='config_file.txt',
                   help='The cfg file contains the filenames to be processed')
 args.add_argument('--debug',dest='debug',default=False,type=bool,
                   help='Debug mode')
+#TODO: concat dataframes, still pending
 def folder_reader(file_path,config_file_path='config_file.txt',text_file=True,token=True,research_keys=['dstr', 'ORT'],debug=False):
 
     with open(config_file_path,'r+') as file:
