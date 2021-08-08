@@ -94,20 +94,20 @@
         <String>Utterance</String>
     </prefList>
     <pref key="TimeScaleBeginTime">
-        <Long>481140</Long>
+        <Long>90880</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>481300</Long>
+        <Long>99948</Long>
     </pref>
     <prefGroup key="TierColors">
-        <pref key="ORT">
-            <Object class="java.awt.Color">0,160,90</Object>
+        <pref key="Utterance">
+            <Object class="java.awt.Color">0,0,90</Object>
         </pref>
         <pref key="syll">
             <Object class="java.awt.Color">90,90,160</Object>
         </pref>
-        <pref key="Utterance">
-            <Object class="java.awt.Color">0,0,90</Object>
+        <pref key="ORT">
+            <Object class="java.awt.Color">0,160,90</Object>
         </pref>
         <pref key="default">
             <Object class="java.awt.Color">90,0,90</Object>
@@ -121,14 +121,14 @@
         <pref key="POS">
             <Object class="java.awt.Color">160,160,0</Object>
         </pref>
-        <pref key="IP">
-            <Object class="java.awt.Color">90,160,90</Object>
-        </pref>
         <pref key="IPpos">
             <Object class="java.awt.Color">0,90,160</Object>
         </pref>
         <pref key="phn">
             <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="IP">
+            <Object class="java.awt.Color">90,160,90</Object>
         </pref>
         <pref key="phr">
             <Object class="java.awt.Color">160,90,0</Object>

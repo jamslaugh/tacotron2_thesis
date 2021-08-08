@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-07-24T16:51:35+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-08-08T12:48:31+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -14891,7 +14891,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="wrd">
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="ORT">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
                 TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">

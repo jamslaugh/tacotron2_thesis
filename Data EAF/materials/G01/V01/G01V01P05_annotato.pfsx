@@ -111,23 +111,23 @@
         <pref key="dml">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="IP">
-            <Object class="java.awt.Color">0,160,160</Object>
-        </pref>
         <pref key="IPpos">
             <Object class="java.awt.Color">0,90,160</Object>
+        </pref>
+        <pref key="IP">
+            <Object class="java.awt.Color">0,160,160</Object>
         </pref>
         <pref key="InfoStr">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
-        <pref key="Utterance">
-            <Object class="java.awt.Color">0,90,90</Object>
+        <pref key="ORT">
+            <Object class="java.awt.Color">160,90,90</Object>
         </pref>
         <pref key="syll">
             <Object class="java.awt.Color">0,0,90</Object>
         </pref>
-        <pref key="ORT">
-            <Object class="java.awt.Color">160,90,90</Object>
+        <pref key="Utterance">
+            <Object class="java.awt.Color">0,90,90</Object>
         </pref>
         <pref key="default">
             <Object class="java.awt.Color">90,90,0</Object>

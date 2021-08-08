@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1536,829</Object>
+        <Object class="java.awt.Dimension">1536,814</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>
@@ -20,7 +20,7 @@
         <Int>181</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>606740</Long>
+        <Long>584150</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>95.0</Float>
@@ -82,7 +82,7 @@
         <Float>95.0</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>584150</Long>
+        <Long>574230</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -108,10 +108,10 @@
         <Float>1.5</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>577368</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>584150</Long>
+        <Long>326</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="MAU">
@@ -120,20 +120,20 @@
         <pref key="dml">
             <Object class="java.awt.Color">90,160,160</Object>
         </pref>
-        <pref key="IP">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
         <pref key="IPpos">
             <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+        <pref key="IP">
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="InfoStr">
             <Object class="java.awt.Color">160,0,160</Object>
         </pref>
-        <pref key="ORT">
-            <Object class="java.awt.Color">160,0,0</Object>
-        </pref>
         <pref key="Utterance">
             <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+        <pref key="ORT">
+            <Object class="java.awt.Color">160,0,0</Object>
         </pref>
         <pref key="syll">
             <Object class="java.awt.Color">0,90,160</Object>

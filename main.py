@@ -2,6 +2,7 @@ from data_processing.data_wrangler import *
 import os
 import argparse
 import re
+import sys
 
 args = argparse.ArgumentParser(description='Process Data')
 # args.add_argument('file')
@@ -16,14 +17,14 @@ args.add_argument('--cfg_path',dest='cfg_file_path',default='config_file.txt',
                   help='The cfg file contains the filenames to be processed')
 args.add_argument('--debug',dest='debug',default=False,type=bool,
                   help='Debug mode')
-#TODO: concat dataframes, still pending
+
 def folder_reader(file_path,config_file_path='config_file.txt',text_file=True,token=True,research_keys=['dstr', 'ORT'],debug=False):
 
     with open(config_file_path,'r+') as file:
         files_list = file.read().split('\n')
 
     wav_reference = [re.sub(r'_.*',"",el) for el in files_list]
-
+    df = []
     for _ in range(len(files_list)):
 
         out_filename = files_list[_]
@@ -50,9 +51,20 @@ def folder_reader(file_path,config_file_path='config_file.txt',text_file=True,to
             ort_data_new = data_wrangle(out_dict, token=False)
 
         ort_data_new['wav_reference'] = wav_reference[_] + '.wav'
-        ort_data_new=ort_data_new.drop(0,axis=1)
+        ort_data_new = ort_data_new.drop(0,axis=1)
 
-    return ort_data_new
+        try:
+            ort_data_new['Begin Time'] = ort_data_new['Begin Time'].astype('int64')
+            ort_data_new['End Time'] = ort_data_new['End Time'].astype('int64')
+        except:
+            raise Exception('Error in data, couldn\'t convert "Begin Time" and "End Time" format to int 64.\n\n There are %d missing values in "Begon Time" and %d in "End Time"\n This is the traceback:\n\n%s'%(ort_data_new['Begin Time'].isna().sum(),ort_data_new['End Time'].isna().sum(),sys.exc_info()[1]))
+        if 'phr' in research_keys:
+            ort_data_new = data_all = pd.merge_asof(ort_data_new,out_dict['phr'],on='Begin Time')
+        df.append(ort_data_new)
+
+    df = pd.concat(df)
+
+    return df
 
 
 if __name__ == '__main__':
@@ -86,5 +98,3 @@ if __name__ == '__main__':
 #     ort_data_new['file'] = out_filename
 #     ort_data_new=ort_data_new.drop(0,axis=1)
 #     ort_data_new.to_csv(os.path.join('', 'preprocessing_results/trial.csv'),index=False)
-
-#TODO: understand why _L files are not red correctly.
