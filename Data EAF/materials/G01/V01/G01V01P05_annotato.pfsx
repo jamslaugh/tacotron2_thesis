@@ -73,7 +73,7 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>389134</Long>
+        <Long>398403</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -99,10 +99,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>395890</Long>
+        <Long>397095</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>389134</Long>
+        <Long>407000</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="MAU">
@@ -111,11 +111,11 @@
         <pref key="dml">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="IPpos">
-            <Object class="java.awt.Color">0,90,160</Object>
-        </pref>
         <pref key="IP">
             <Object class="java.awt.Color">0,160,160</Object>
+        </pref>
+        <pref key="IPpos">
+            <Object class="java.awt.Color">0,90,160</Object>
         </pref>
         <pref key="InfoStr">
             <Object class="java.awt.Color">0,160,0</Object>

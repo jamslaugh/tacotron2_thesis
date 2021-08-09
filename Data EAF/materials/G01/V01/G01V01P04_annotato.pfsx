@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1295,695</Object>
+        <Object class="java.awt.Dimension">1536,814</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>
@@ -20,7 +20,7 @@
         <Long>345270</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>90.00003</Float>
+        <Float>109.0</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -79,10 +79,10 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>90.00003</Float>
+        <Float>109.0</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>322110</Long>
+        <Long>340962</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -105,10 +105,10 @@
         <String>MAU</String>
     </prefList>
     <pref key="TimeScaleBeginTime">
-        <Long>323421</Long>
+        <Long>339536</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>330366</Long>
+        <Long>340962</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="MAU">
@@ -117,17 +117,14 @@
         <pref key="dml">
             <Object class="java.awt.Color">90,160,160</Object>
         </pref>
-        <pref key="IPpos">
-            <Object class="java.awt.Color">90,0,160</Object>
-        </pref>
         <pref key="IP">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
+        <pref key="IPpos">
+            <Object class="java.awt.Color">90,0,160</Object>
+        </pref>
         <pref key="InfoStr">
             <Object class="java.awt.Color">0,90,90</Object>
-        </pref>
-        <pref key="Utterance">
-            <Object class="java.awt.Color">0,160,160</Object>
         </pref>
         <pref key="ORT">
             <Object class="java.awt.Color">0,160,0</Object>
@@ -135,14 +132,17 @@
         <pref key="syll">
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
+        <pref key="Utterance">
+            <Object class="java.awt.Color">0,160,160</Object>
+        </pref>
         <pref key="default">
             <Object class="java.awt.Color">160,160,90</Object>
         </pref>
-        <pref key="PC">
-            <Object class="java.awt.Color">90,90,0</Object>
-        </pref>
         <pref key="KAN-MAU">
             <Object class="java.awt.Color">90,90,160</Object>
+        </pref>
+        <pref key="PC">
+            <Object class="java.awt.Color">90,90,0</Object>
         </pref>
         <pref key="POS">
             <Object class="java.awt.Color">90,0,0</Object>

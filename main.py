@@ -59,7 +59,7 @@ def folder_reader(file_path,config_file_path='config_file.txt',text_file=True,to
         except:
             raise Exception('Error in data, couldn\'t convert "Begin Time" and "End Time" format to int 64.\n\n There are %d missing values in "Begon Time" and %d in "End Time"\n This is the traceback:\n\n%s'%(ort_data_new['Begin Time'].isna().sum(),ort_data_new['End Time'].isna().sum(),sys.exc_info()[1]))
         if 'phr' in research_keys:
-            ort_data_new = data_all = pd.merge_asof(ort_data_new,out_dict['phr'],on='Begin Time')
+            ort_data_new = data_all = pd.merge_asof(ort_data_new,out_dict['phr'],on='Begin Time',suffixes = ['','_phr'])
         df.append(ort_data_new)
 
     df = pd.concat(df)

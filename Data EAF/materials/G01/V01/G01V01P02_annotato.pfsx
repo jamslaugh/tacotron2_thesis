@@ -17,7 +17,10 @@
         <Int>124</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>521740</Long>
+        <Long>517342</Long>
+    </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>88.00001</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -72,8 +75,11 @@
     <pref key="FrameLocation">
         <Object class="java.awt.Point">0,0</Object>
     </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>88.00001</Float>
+    </pref>
     <pref key="SelectionBeginTime">
-        <Long>481300</Long>
+        <Long>517297</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -94,10 +100,10 @@
         <String>Utterance</String>
     </prefList>
     <pref key="TimeScaleBeginTime">
-        <Long>90880</Long>
+        <Long>508547</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>99948</Long>
+        <Long>517342</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="Utterance">
@@ -121,11 +127,11 @@
         <pref key="POS">
             <Object class="java.awt.Color">160,160,0</Object>
         </pref>
-        <pref key="IPpos">
-            <Object class="java.awt.Color">0,90,160</Object>
-        </pref>
         <pref key="phn">
             <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="IPpos">
+            <Object class="java.awt.Color">0,90,160</Object>
         </pref>
         <pref key="IP">
             <Object class="java.awt.Color">90,160,90</Object>

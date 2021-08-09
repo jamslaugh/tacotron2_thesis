@@ -20,10 +20,10 @@
         <Int>181</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>584150</Long>
+        <Long>606740</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>95.0</Float>
+        <Float>109.0</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -79,10 +79,10 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>95.0</Float>
+        <Float>109.0</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>574230</Long>
+        <Long>602264</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -108,10 +108,10 @@
         <Float>1.5</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>598187</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>326</Long>
+        <Long>602266</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="MAU">
@@ -120,11 +120,11 @@
         <pref key="dml">
             <Object class="java.awt.Color">90,160,160</Object>
         </pref>
-        <pref key="IPpos">
-            <Object class="java.awt.Color">0,90,0</Object>
-        </pref>
         <pref key="IP">
             <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="IPpos">
+            <Object class="java.awt.Color">0,90,0</Object>
         </pref>
         <pref key="InfoStr">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -141,11 +141,11 @@
         <pref key="default">
             <Object class="java.awt.Color">160,0,90</Object>
         </pref>
-        <pref key="PC">
-            <Object class="java.awt.Color">160,160,90</Object>
-        </pref>
         <pref key="KAN-MAU">
             <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+        <pref key="PC">
+            <Object class="java.awt.Color">160,160,90</Object>
         </pref>
         <pref key="POS">
             <Object class="java.awt.Color">90,0,160</Object>

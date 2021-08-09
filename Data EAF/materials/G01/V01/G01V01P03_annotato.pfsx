@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1536,699</Object>
+        <Object class="java.awt.Dimension">1550,838</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>
@@ -17,10 +17,10 @@
         <Int>131</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>316680</Long>
+        <Long>312217</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>88.00004</Float>
+        <Float>136.0</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -73,10 +73,10 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">-7,-7</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>88.00004</Float>
+        <Float>136.0</Float>
     </pref>
     <pref key="SelectionBeginTime">
         <Long>303040</Long>
@@ -102,7 +102,7 @@
         <String>MAU</String>
     </prefList>
     <pref key="TimeScaleBeginTime">
-        <Long>302859</Long>
+        <Long>302515</Long>
     </pref>
     <pref key="MediaTime">
         <Long>303040</Long>
@@ -126,11 +126,11 @@
         <pref key="ORT">
             <Object class="java.awt.Color">90,160,90</Object>
         </pref>
-        <pref key="syll">
-            <Object class="java.awt.Color">160,90,0</Object>
-        </pref>
         <pref key="Utterance">
             <Object class="java.awt.Color">90,90,160</Object>
+        </pref>
+        <pref key="syll">
+            <Object class="java.awt.Color">160,90,0</Object>
         </pref>
         <pref key="default">
             <Object class="java.awt.Color">0,160,90</Object>
