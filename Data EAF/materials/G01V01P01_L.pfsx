@@ -94,7 +94,7 @@
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>676312</Long>
+        <Long>681062</Long>
     </pref>
     <pref key="MediaTime">
         <Long>682577</Long>
@@ -118,14 +118,14 @@
         <pref key="PC">
             <Object class="java.awt.Color">160,160,90</Object>
         </pref>
+        <pref key="IP">
+            <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
         <pref key="IPpos">
             <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="phn">
             <Object class="java.awt.Color">0,160,90</Object>
-        </pref>
-        <pref key="IP">
-            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="phr">
             <Object class="java.awt.Color">90,160,160</Object>

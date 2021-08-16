@@ -1,373 +1,374 @@
-wavs/G01V01P01phr0.wav|Buongiorno a tutti <PRL> ragazzi <sp> io <PRL> sono Camilla <sp> sono la storica dell'arte che questa mattina vi accompagnera' attraverso gli ambienti della Certosa di San Martino <inspiration>.
-wavs/G01V01P01phr0a.wav|Voi la conoscete gia' <INT> si <INT> piu' o meno okay <inspiration> perche' <sp> spesso e vol+ <eeh> /siete tutti napoletani <INT>.
-wavs/G01V01P01phr0b.wav|Okay <unclear> okay perché solitamente succede <inspiration> che anche per i ragazzi napoletani spesso e' il tipico posto dove ti portano con le scuole <inspiration>.
-wavs/G01V01P01phr0c.wav|e a volte succede succede <inspiration> di non tornarci non dico mai piu' da adulti pero' insomma con non tanta <PRL> attenzione allora oggi e' l'occasione <inspiration> <eeh>.
-wavs/G01V01P01phr0d.wav|per rivedere insieme delle cose che magari conoscete o dove siete stati un po'<oo> un <PRL> po' di tempo fa <inspiration>.
-wavs/G01V01P01phr0e.wav|la Certosa di San Martino qui a Napoli <ehm> <breath> ha almeno due anime <sp> <eeh>.
-wavs/G01V01P01phr0f.wav|una <ehm> racconta la storia dei certosini <sp> e quindi <breath> <eeh>.
+wavs/G01V01P01phr0.wav|Buongiorno a tuttiii ragazzi <sp> iooo sono Camilla <sp> sonooo la storica dell'arte che questa mattina vi accompagnerà attraverso gli ambienti della Certosaaa di San Martino <inspiration>.
+wavs/G01V01P01phr0a.wav|Voi la conoscete già <INT> si <INT> più o meno okay <inspiration> perchè <sp> spesso e vol+ <eeh> /siete tutti napoletani <INT>.
+wavs/G01V01P01phr0b.wav|Okay <unclear> okay perché solitamente succede <inspiration> cheee anche per i ragazziii napoletani spesso è il tipico posto dove ti portano con le scuole <inspiration>.
+wavs/G01V01P01phr0c.wav|e a volte succede succede <inspiration> diii non tornarci non dico mai più da adulti però insomma con non tantaaa attenzione allora oggi è l'occasione <inspiration> <eeh>.
+wavs/G01V01P01phr0d.wav|per rivedere insieme delle cose che magari conoscete ooo dove siete stati un po'<oo> un po' di tempo fa <inspiration>.
+wavs/G01V01P01phr0e.wav|laaa Certosa di San Martino qui a Napoliii <ehm> <breath> ha almeno due anime <sp> <eeh>.
+wavs/G01V01P01phr0f.wav|unaaa <ehm> racconta la storia dei certosini <sp> e quindiii <breath> <eeh>.
 wavs/G01V01P01phr0g.wav|questa storia si snoda attraverso quelli che erano gli ambienti che questi monaci <sp> abitavano <sp> <tongue-click>.
-wavs/G01V01P01phr0h.wav|pero' poi in realta' come dice la la dicitura stessa del museo oggiggiorno non e' solo Certosa ma e' anche Museo nazionale <inspiration>.
-wavs/G01V01P01phr0i.wav|Significa che questo luogo <sp> in realta' a partire dagli anni sessanta del milleottocento e' diventato anche museo <sp> <breath> e <sp> <eeh>.
-wavs/G01V01P01phr0j.wav|all'epoca <sp> <eeh> si scelse il Museo di San Martino come non un museo qualunque <breath> ma come un luogo che <sp> <eeh> doveva <sp> <eeh> diventare di fatto il Museo civico di Napoli <sp> <inspiration>.
-wavs/G01V01P01phr0k.wav|quindi ecco spiegate delle sezioni speciali dedicate ad alcune glorie <sp> <mhh> della tradizione napoletana <inspiration>.
-wavs/G01V01P01phr0l.wav|Si pensi per esempio alla sezione presepiale <sp> dove appunto sono custodite <breath> alcuni <eeh> dei degli esempi <sp> <eeh>.
-wavs/G01V01P01phr0m.wav|piu' belli di questa gloriosa per l'appunto tradizione <sp> napoletana <sp> <tongue-click> <sp>.
-wavs/G01V01P01phr0n.wav|pero' <sp> <eeh> <sp> oggi in verita' <breath> piu' che su questi aspetti immagini e memorie che racconta la storia la crescita <sp> diciamo della della <PRL> citta'.
-wavs/G01V01P01phr0o.wav|delle <breath> dei suoi ricordi storici in realta' <sp> ci concentreremo per di pi+/ per lo piu' <breath> su quella che e' proprio la vita dei certosini e la vita della Certosa <sp> <inspiration>.
-wavs/G01V01P01phr0p.wav|Allora provate a immaginare <PRL> <sp> la Napoli di settecento anni fa <sp> <inspiration> su cui regnava <sp> la dinastia degli Angioini <sp>.
-wavs/G01V01P01phr0q.wav|quindi di origine francese <inspiration> e provate a immaginare un Vomero visto che voi siete napoletani insomma possiamo fare un confronto facile <breath> <eeh>.
-wavs/G01V01P01phr0r.wav|un Vomero completamente disabitato <sp> rispetto al quartiere commerciale e animato che e' oggi provate a immaginare una collina <breath>.
-wavs/G01V01P01phr0s.wav|dove in pratica non c'era nulla <sp> una <vocal> quasi aperta campagna <inspiration> quindi un luogo che si prestava in maniera perfetta <inspiration> alla creazione di un monastero <sp>.
-wavs/G01V01P01phr0t.wav|quindi il figlio del re Roberto cioe' Carlo duca di Calabria <inspiration> diciamo appoggia <breath> <eeh> incoraggia <sp> la nascita <sp> di questa <sp> Certosa <breath>.
-wavs/G01V01P01phr0u.wav|lo sapete che in Campania poi ce ne sono altre due quella di Padula <sp> e quella <sp> e quella di Capri <inspiration>.
-wavs/G01V01P01phr0v.wav|Quindi negli anni Venti incominciano i lavori <inspiration> <eeh> affidati tra gli altri anche a Tino di Camaino <sp>.
-wavs/G01V01P01phr0x.wav|che qui lavora in veste di architetto ma che per il re gia' lavorava <breath> come come scultore alcune sue opere le poss+/ le potete vedere in Santa Chiara le potete vedere <inspiration>.
-wavs/G01V01P01phr0y.wav|a Donna Regina le potete vedere a San Lorenzo <sp> <tongue-click> <eeh> incominciano quindi <sp> i lavori <inspiration> che <sp> in realta' <sp> <eeh> Carlo non vedra' mai <breath> <ehm>.
-wavs/G01V01P01phr0z.wav|completi perche' <sp> <eeh> muore in realta' muore <sp> ancor prima di di suo padre <inspiration> a mettere diciamo la parola fine <sp> in qualche modo a questa fase di lavori trecentesca.
-wavs/G01V01P01phr001.wav|<sp> e' la regina <breath> Giovanna <sp> che in realta' <vocal> potete vedere <breath> <eeh> in quell'affresco <sp> ben piu' tardo naturalmente del Trecento <inspiration> dove <sp>.
-wavs/G01V01P01phr002.wav|offre <sp> il monastero stesso la Certosa stessa <sp> a San Bruno <sp> di cui parleremo a lungo <sp> durante la nostra visita perché <inspiration> si tratta del fondatore <sp>.
-wavs/G01V01P01phr003.wav|del fondatore dell'ordine <sp> <inspiration> quindi la Certosa ha un'origine <sp> trecentesca come vi dicevo <sp> pero' se gia' date uno sguardo insomma <inspiration> <eeh>.
-wavs/G01V01P01phr004.wav|nell'ambiente dove ci troviamo di trecentesco <inspiration> c'e' ben poco <sp> in verita' <inspiration> forse proprio sulla vostra testa potete vedere <breath> quel che resta di alcuni archi a sesto acuto <sp>.
-wavs/G01V01P01phr005.wav|quindi come vedete <inspiration> si e' intervenuti <breath> <eeh> successivamente sulle strutture <sp> medievali <inspiration> questo  questi lavori <inspiration>.
-wavs/G01V01P01phr006.wav|di ammodernamento cominciano <sp> alla fine del millecinquecento <inspiration> e potremmo dire che <ehm> <breath> non si fermano quasi.
-wavs/G01V01P01phr007.wav|mai piu' praticamente la la fase clou dei lavori <inspiration> si ha <sp> a partire da quel momento e nel Seicento ma in realta' poi come dire <inspiration> si prolunga <sp> fino al millesettecento <inspiration>.
+wavs/G01V01P01phr0h.wav|però poi in realtà come diceee laaa la dicitura stessa del museo oggiggiorno non è solo Certosa ma è anche Museo nazionale <inspiration>.
+wavs/G01V01P01phr0i.wav|Significa che questo luogo <sp> in realtà a partire dagli anni sessanta del milleottocento è diventato anche museo <sp> <breath> e <sp> <eeh>.
+wavs/G01V01P01phr0j.wav|all'epocaaa <sp> <eeh> si scelse il Museo di San Martino come non un museo qualunque <breath> ma come un luogo che <sp> <eeh> dovevaaa <sp> <eeh> diventare di fatto il Museo civico di Napoli <sp> <inspiration>.
+wavs/G01V01P01phr0k.wav|quindiii ecco spiegate delle sezioni speciali dedicate ad alcuneee glorie <sp> <mhh> della tradizione napoletana <inspiration>.
+wavs/G01V01P01phr0l.wav|Si pensi per esempiooo alla sezione presepiale <sp> dove appunto sono custodite <breath> alcuniii <eeh> deiii degli esempi <sp> <eeh>.
+wavs/G01V01P01phr0m.wav|più belli di questaaa gloriosa per l'appunto tradizioneee <sp> napoletana <sp> <tongue-click> <sp>.
+wavs/G01V01P01phr0n.wav|però <sp> <eeh> <sp> oggi in verità <breath> più che su questi aspetti immagini e memorie che racconta la storia la crescita <sp> diciamo dellaaa della città.
+wavs/G01V01P01phr0o.wav|delleee <breath> dei suoi ricordi storici in realtà <sp> ci concentreremo per di pi+/ per lo più <breath> su quella che è proprio la vita dei certosini e la vita dellaaa Certosa <sp> <inspiration>.
+wavs/G01V01P01phr0p.wav|Allora provate a immaginareee <sp> la Napoli diii settecento anni faaa <sp> <inspiration> su cui regnavaaa <sp> la dinastia degli Angioini <sp>.
+wavs/G01V01P01phr0q.wav|quindi di origineee francese <inspiration> e provate a immaginare un Vomero visto che voi siete napoletani insomma possiamo fare un confrontooo facile <breath> <eeh>.
+wavs/G01V01P01phr0r.wav|un Vomero completamenteee disabitato <sp> rispetto al quartiereee commercialeee e animato che è oggi provate a immaginare una collina <breath>.
+wavs/G01V01P01phr0s.wav|dove in pratica non c'era nulla <sp> unaaa <vocal> quasi apertaaa campagna <inspiration> quindi un luogo che si prestava in maniera perfetta <inspiration> alla creazione di un monastero <sp>.
+wavs/G01V01P01phr0t.wav|quindiii il figlio del re Roberto cioè Carlo duca di Calabria <inspiration> diciamo appoggia <breath> <eeh> incoraggia <sp> la nascita <sp> di questa <sp> Certosa <breath>.
+wavs/G01V01P01phr0u.wav|lo sapete che in Campania poi ce ne sono altre due quella di Padula <sp> e quellaaa <sp> e quella di Capri <inspiration>.
+wavs/G01V01P01phr0v.wav|Quindi negli anni Venti incominciano i lavori <inspiration> <eeh> affidati tra gli altri anche aaa Tino di Camaino <sp>.
+wavs/G01V01P01phr0x.wav|cheee qui lavora in veste di architetto maaa che per il re già lavorava <breath> comeee come scultore alcune sue opere le poss+/ le potete vedere in Santa Chiara le potete vedere <inspiration>.
+wavs/G01V01P01phr0y.wav|a Donna Regina le potete vedere a San Lorenzo <sp> <tongue-click> <eeh> incominciano quindi <sp> i lavori <inspiration> che <sp> in realtà <sp> <eeh> Carlo non vedrà mai <breath> <ehm>.
+wavs/G01V01P01phr0z.wav|completi perchè <sp> <eeh> muore in realtà muore <sp> ancor prima diii di suo padre <inspiration> a mettere diciamo la parola fine <sp> in qualche modo a questa fase di lavori trecentesca.
+wavs/G01V01P01phr001.wav|<sp> è la regina <breath> Giovanna <sp> che in realtà <vocal> potete vedere <breath> <eeh> in quell'affresco <sp> ben più tardo naturalmente del Trecento <inspiration> dove <sp>.
+wavs/G01V01P01phr002.wav|offre <sp> il monastero stesso la Certosa stessa <sp> a San Bruno <sp> di cui parleremo a lungo <sp> durante la nostra visita perché <inspiration> si tratta del fondatoreee <sp>.
+wavs/G01V01P01phr003.wav|del fondatore dell'ordine <sp> <inspiration> quindi laaa Certosa ha un'origine <sp> trecentesca come vi dicevo <sp> però se già date uno sguardo insommaaa <inspiration> <eeh>.
+wavs/G01V01P01phr004.wav|nell'ambiente dove ci troviamo di trecentesco <inspiration> c'è ben poco <sp> in verità <inspiration> forse proprio sulla vostra testa potete vedere <breath> quel che resta di alcuni archi a sesto acuto <sp>.
+wavs/G01V01P01phr005.wav|quindi come vedete <inspiration> si è intervenuti <breath> <eeh> successivamente sulle strutture <sp> medievali <inspiration> questooo questi lavori <inspiration>.
+wavs/G01V01P01phr006.wav|di ammodernamento cominciano <sp> alla fine del millecinquecento <inspiration> e potremmo dire cheee <ehm> <breath> non si fermano quasiii.
+wavs/G01V01P01phr007.wav|mai più praticamente la la fase clou dei lavori <inspiration> si ha <sp> a partire da quel momento e nel Seicento ma in realtà poi come dire <inspiration> si prolunga <sp> fino al millesettecento <inspiration>.
 wavs/G01V01P01phr008.wav|la Certosa <inspiration> <ehm> agli inizi del milleottocento <inspiration> <ehm> <sp> <tongue click> gli ordini vengono soppressi <sp> <tongue click> quindi i certosini sono costretti ad andar via per.
-wavs/G01V01P01phr009.wav|un/ poi ritorneranno per poi essere definitivamente <breath> <ehm> cacciati ed e' per questo che <noise> <inspiration> <cough> <tongue-click> scusate <inspiration>.
-wavs/G01V01P01phr010.wav|poi la Certosa come vi dicevo <sp> <tongue-click> diventera' diventera' museo <inspiration> <ehm> <tongue-click>.
+wavs/G01V01P01phr009.wav|unnn/ poi ritorneranno per poi essere definitivamente <breath> <ehm> cacciati ed è per questo che <noise> <inspiration> <cough> <tongue-click> scusate <inspiration>.
+wavs/G01V01P01phr010.wav|poi la Certosa come vi dicevo <sp> <tongue-click> diventerà diventerà museo <inspiration> <ehm> <tongue-click>.
 wavs/G01V01P01phr011.wav|questi <eeh> lavori <sp> <eeh> di ammodernamento quindi incominciano alla fine del millecinquecento e <sp> <ehm> come vi dicevo si prolungano <inspiration>.
 wavs/G01V01P01phr012.wav|per molto tempo <inspiration> e <ehm> vedono andare e venire dalla Certosa <inspiration> alcuni dei migliori <ehm> artisti <sp> su piazza <inspiration> <ehm>.
-wavs/G01V01P01phr013.wav|qui per esempio c'e' Belisario Corenzio Giovanni Baglione ma <inspiration> <ehm> se <ehm> guardate <inspiration> per quanto possibile <inspiration> <ehm>.
-wavs/G01V01P01phr014.wav|la chiesa dove al momento non possiamo entrare <inspiration> <ehm> <PRL> <sp> perché a+ <ehm> abbiamo a cuore <sp> <ehm> la conservazione del pavimento che in questo momento e' in una fase un po' <inspiration> <ehm>.
-wavs/G01V01P01phr015.wav|delicata dobbiamo insomma preservarlo ci dobbiamo accontentare <inspiration> di vederlo da qui <inspiration> comunque anche in questo modo anche se vi  <ehm> vi potete anche avvicinare un pochettino <sp> <inspiration> <tongue-click>.
-wavs/G01V01P01phr016.wav|potete intuire <inspiration> <ehm> <sp> la la bellezza <sp> di questo di questo luogo <inspiration> innanzitutto la ricchezza incredibile <sp> di marmi commessi.
-wavs/G01V01P01phr017.wav|quindi questo <inspiration> questa sorta di puzzle <sp> in un certo senso <inspiration> <ehm> di di marmi <inspiration> <ehm> pregiati <inspiration> <ehm> un tipo di lavorazione che <tongue-click> <ehm>.
-wavs/G01V01P01phr018.wav|a Napoli <ehm> <PRL> diciamo <inspiration> <eeh> diventera' quella poi piu' di moda in un certo senso grazie all'intervento di Cosimo Fanzago <inspiration> <ehm> <sp>.
-wavs/G01V01P01phr019.wav|marmoraro e architetto <inspiration> di origine <sp> bergamasca <sp> quindi dal Nord che pero' passa tutta la sua vita vive e lavora qui <sp> <noise> a Napoli <sp> <noise>.
-wavs/G01V01P01phr020.wav|e in particolare in Certosa <inspiration> <ehm> lavora u+ circa un trent'anni dagli an+ <sp> <ehm> dagli anni Venti <tongue-click> in poi <inspiration> <ehm> in realta' i marmi.
-wavs/G01V01P01phr021.wav|che qui vedete vengono <tongue-click> lavorati vengono / la chiesa viene completata in seguito <inspiration> <ehm> e all'interno la decorazione non e' solamente di tipo.
-wavs/G01V01P01phr022.wav|marmoreo come potete vedere <inspiration> ma <sp> <ehm> nelle cappelle per esempio abbiamo <ehm> <breath> <sp> cioe' c'e' stato l'intervento di alcuni dei pittori <PRL> <PRL> maggiori <inspiration> <ehm>.
-wavs/G01V01P01phr023.wav|del Seicento e del Settecento napoletano <inspiration> la prima cappella a sinistra per esempio e' stata <ehm> decorata da Battistello Caracciolo <inspiration> <sp> <noise> che e' stato <inspiration>.
-wavs/G01V01P01phr024.wav|diciamo l'allievo non ufficiale <inspiration> <ehm> di Caravaggio a Napoli colui che lo ha piu' di tutti / <inspiration> <ehm> piu' di  tutti ha saputo come dire <inspiration> <ehm>.
-wavs/G01V01P01phr025.wav|interpretare ha saputo <sp> <ehm> fare <sp> <ehm> far tesoro <sp> del della sua della sua lezione anche se qui lo vediamo lavorare anche in affresco <inspiration> e Caravaggio <sp>.
-wavs/G01V01P01phr026.wav|a quanto ne sappiamo <inspiration> in affresco non lavorava quindi una chie+  una cappella dedicata a San Gennaro <sp> il nostro santo patrono quindi non puo' mancare <inspiration> una.
-wavs/G01V01P01phr027.wav|cappella dedicata a San Bruno che vi ho detto e' una sorta di evergreen e naturalmente in Certosa essendo il fondatore dell'Ordine <inspiration> una cappella dedicata all'Assunta <inspiration> <ehm>.
-wavs/G01V01P01phr028.wav|una cappella per esempio dedicata <inspiration> <ehm> a San Martino <sp> che e' <sp> il santo di fatto a cui e' dedicata la Certosa santo francese <sp>.
-wavs/G01V01P01phr029.wav|se pensate a questa piccola informazione e' ovvio visto che <inspiration> <sp> a capo insomma sul trono napoletano c'erano dei sovrani di origine francese <inspiration>.
-wavs/G01V01P01phr030.wav|e poi <ehm> c'e' anche una <ehm> una cappella dedicata a San Giovanni Battista <inspiration> che in fondo e' stato il primo eremita <sp> e quindi anche in questo senso <inspiration> <ehm> e' molto caro <tongue-click>.
-wavs/G01V01P01phr031.wav|ai Certosini quindi come sempre <inspiration> la decorazione <inspiration> <ehm> il prog+ / il cosiddetto programma iconografico di una chiesa ma anche di un.
-wavs/G01V01P01phr032.wav|palazzo e quant'altro non e' mai casuale ma e' figlio <inspiration> <ehm> del contesto in cui si trova <inspiration> sulla / <PRL> <ehm> nel  soff+  sul soffitto che noi <eeh> <sp> oggi <sp>.
-wavs/G01V01P01phr033.wav|<tongue-click> appunto non possiamo vedere molto bene <inspiration> che  dobbiamo solo intuire <inspiration> <ehm> interviene uno dei piu' grandi pittori barocchi <inspiration> del Seicento Giovanni <PRL>.
-wavs/G01V01P01phr034.wav|Giovanni Lanfranco <inspiration> che qui <sp> <ehm> da una parte e' costretto diciamo a <ehm> fare i conti con la struttura stessa <sp> <ehm>.
-wavs/G01V01P01phr035.wav|del del soffitto <inspiration> ma allo stesso tempo inventa un sistema per il quale <inspiration> <ehm> noi riusciamo ad avere una visione diretta di Paradiso <sp>.
-wavs/G01V01P01phr036.wav|quindi questo soffitto in realta'/ <inspiration> <ehm> se potete vedere appunto gli squarci di azzurro che compaiono di qua e di la' <inspiration> <ehm> la pittura di Lanfranco di fatto.
-wavs/G01V01P01phr037.wav|<ff>finge che un soffitto non non ci sia affatto <inspiration> e quindi <inspiration> <ehm> in maniera illusionistica possiamo direttamente guardare <inspiration>.
-wavs/G01V01P01phr038.wav|Cristo nella sua gloria <tongue-click> <eeh> d'angeli <sp> <tongue-click> ultima <tongue-click> cosa che vi vorrei presentare <inspiration> e' anche l'altare <sp> <breath> secondo voi di che materiale e' INT <vocal> <sp>.
-wavs/G01V01P01phr040.wav|pero' eri preparato INT <laugh> perché e' difficile che un altare in una Chiesa cosi' ricca poi effettivamente rimanga <inspiration> <ehm> di legno <inspiration> qui.
-wavs/G01V01P01phr041.wav|abbiamo  ve l'ho raccontato insomma una provvisione di marmi pregiati pietre dure lapislazzuli e cosi' via che e' strano che poi effettivamente <inspiration> <ehm> l'altare <sp>.
-wavs/G01V01P01phr042.wav|rimanga di un materiale cosi' poco nobile <sp> in effetti questa volta questo e' il caso <inspiration> e fu disegnato da <sp> <vocal> Solimena quindi grande <inspiration> <ehm>.
-wavs/G01V01P01phr043.wav|architetto e pittore a cavallo tra Seicento e Settecento <inspiration> e <sp> anche gli angeli <sp> <ehm> che vedete <ehm>.
+wavs/G01V01P01phr013.wav|qui per esempio c'è Belisario Corenzio Giovanni Baglione ma <inspiration> <ehm> se <ehm> guardate <inspiration> per quanto possibile <inspiration> <ehm>.
+wavs/G01V01P01phr014.wav|la chiesa dove al momento non possiamo entrare <inspiration> <ehm> <sp> perché a+ <ehm> abbiamo a cuore <sp> <ehm> la conservazione del pavimento che in questo momento è in una fase un po' <inspiration> <ehm>.
+wavs/G01V01P01phr015.wav|delicata dobbiamo insomma preservarlo ci dobbiamo accontentare <inspiration> di vederlooo da qui <inspiration> comunque anche in questo modo anche se vi <ehm> vi potete anche avvicinare un pochettino <sp> <inspiration> <tongue-click>.
+wavs/G01V01P01phr016.wav|potete intuire <inspiration> <ehm> <sp> laaa la bellezza <sp> di questooo di questo luogo <inspiration> innanzitutto la ricchezza incredibile <sp> di marmi commessi.
+wavs/G01V01P01phr017.wav|quindi questooo <inspiration> questa sorta di puzzle <sp> in un certo senso <inspiration> <ehm> diii di marmi <inspiration> <ehm> pregiati <inspiration> <ehm> un tipo di lavorazione che <tongue-click> <ehm>.
+wavs/G01V01P01phr018.wav|a Napoli <ehm> diciamooo <inspiration> <eeh> diventerà quella poi piùuu di moda in un certo senso grazie all'intervento di Cosimo Fanzago <inspiration> <ehm> <sp>.
+wavs/G01V01P01phr019.wav|marmoraro eee architetto <inspiration> di origine <sp> bergamasca <sp> quindiii dal Nord che però passa tutta la sua vita vive e lavora qui <sp> <noise> a Napoli <sp> <noise>.
+wavs/G01V01P01phr020.wav|e in particolare in Certosa <inspiration> <ehm> lavora u+ circa un trent'anni dagli an+ <sp> <ehm> dagli anni Venti <tongue-click> in poi <inspiration> <ehm> in realtà i maaarmi.
+wavs/G01V01P01phr021.wav|che qui vedete vengono <tongue-click> lavorati vengonooo / la chiesa viene completata in seguito <inspiration> <ehm> e all'interno la decorazione non è solamente di tipo.
+wavs/G01V01P01phr022.wav|marmoreo come potete vedere <inspiration> ma <sp> <ehm> nelle cappelle per esempio abbiamooo <ehm> <breath> <sp> cioè c'è stato l'intervento di alcuni dei pittoriii maggiori <inspiration> <ehm>.
+wavs/G01V01P01phr023.wav|del Seicento e del Settecentooo napoletano <inspiration> la prima cappella a sinistra per esempio è stataaa <ehm> decorata da Battistello Caracciolo <inspiration> <sp> <noise> che è statooo <inspiration>.
+wavs/G01V01P01phr024.wav|diciamo l'allievo non ufficiaaale <inspiration> <ehm> diii Caravaaaggio a Napoli colui che lo ha più di tutti / <inspiration> <ehm> più di tutti ha saputo come direee <inspiration> <ehm>.
+wavs/G01V01P01phr025.wav|interpretare ha saputo <sp> <ehm> fare <sp> <ehm> far tesoooro <sp> delll della suaaa della sua lezione anche se qui lo vediamo lavorare anche in affresco <inspiration> e Caravaggio <sp>.
+wavs/G01V01P01phr026.wav|a quanto ne sappiamo <inspiration> in affresco nonnn lavorava quindi una chie+ unaaa cappella dedicata a San Gennaro <sp> il nostro santo patrono quindi non può mancare <inspiration> una.
+wavs/G01V01P01phr027.wav|cappella dedicata a San Bruno che vi ho detto è una sorta di evergreen e naturalmente in Certosa essendo il fondatore dell'Ordine <inspiration> una cappella dedicata all'Assunta <inspiration> <ehm>.
+wavs/G01V01P01phr028.wav|una cappella per esempio dedicaaata <inspiration> <ehm> a San Martino <sp> che è <sp> il santo di fatto a cui è dedicata la Certosa santo francese <sp>.
+wavs/G01V01P01phr029.wav|se pensate a questaaa piccola informazione è ovvio visto che <inspiration> <sp> a capo insomma sul trono napoletano c'erano dei sovrani di origine francese <inspiration>.
+wavs/G01V01P01phr030.wav|e poi <ehm> c'è anche unaaa <ehm> una cappella dedicata a San Giovanni Battista <inspiration> che in fondo è stato il primo eremita <sp> e quindi anche in questo senso <inspiration> <ehm> è molto caro <tongue-click>.
+wavs/G01V01P01phr031.wav|ai Certosini quindi come sempre <inspiration> la decorazioneee <inspiration> <ehm> il prog+ / il cosiddetto programma iconografico di una chiesaaa maaa anche di un.
+wavs/G01V01P01phr032.wav|palazzo e quant'altro non è mai casuale ma è figlio <inspiration> <ehm> del contesto in cuiii si trova <inspiration> sullaaa / <ehm> nel soff+ sul soffitto che noi <eeh> <sp> oggi <sp>.
+wavs/G01V01P01phr033.wav|<tongue-click> appunto non possiamo vedereee molto bene <inspiration> che dobbiamo solo intuire <inspiration> <ehm> interviene uno dei più grandi pittoriii barocchi <inspiration> del Seicento Giovanniii.
+wavs/G01V01P01phr034.wav|Giovanni Lanfranco <inspiration> che qui <sp> <ehm> da una parte è costretto diciamooo a <ehm> fare i conti connn la struttura stessa <sp> <ehm>.
+wavs/G01V01P01phr035.wav|delll del soffitto <inspiration> ma allo stesso tempo inventa un sistema per il quale <inspiration> <ehm> noi riusciamo ad avere una visione diretta di Paradiso <sp>.
+wavs/G01V01P01phr036.wav|quindi questo soffitto in realtà/ <inspiration> <ehm> se potete vedere appunto gli squarci di azzurro che compaiono di qua e di là <inspiration> <ehm> la pittura di Lanfranco di fatto.
+wavs/G01V01P01phr037.wav|<ff>finge che un soffitto nonnn non ci sia affatto <inspiration> e quindi <inspiration> <ehm> in maniera illusionistica possiamo direttamente guardare <inspiration>.
+wavs/G01V01P01phr038.wav|Cristo nella suaaa gloria <tongue-click> <eeh> d'angeli <sp> <tongue-click> ultimaaa <tongue-click> cosa che vi vorrei presentare <inspiration> è anche l'altare <sp> <breath> secondo voi di che materiale è INT <vocal> <sp>.
+wavs/G01V01P01phr040.wav|però eri preparato INT <laugh> perché è difficile che un altaaare in una Chiesa così ricca poi effettivamente rimangaaa <inspiration> <ehm> di legno <inspiration> qui.
+wavs/G01V01P01phr041.wav|abbiamo ve l'ho raccontato insomma una provvisione di marmi pregiati pietre dure lapislazzuli e così via che è strano che poi effettivamente <inspiration> <ehm> l'altareee <sp>.
+wavs/G01V01P01phr042.wav|rimanga di un materiale così pocooo nobile <sp> in effetti questa volta questo è il caso <inspiration> e fu disegnato da <sp> <vocal> Solimena quindi grande <inspiration> <ehm>.
+wavs/G01V01P01phr043.wav|architetto e pittooore a cavallo tra Seicento e Settecento <inspiration> e <sp> anche gli angeliii <sp> <ehm> che vedeteee <ehm>.
 wavs/G01V01P01phr044.wav|ai lati degli altari anche qu+ <unclear> anche questo sai di che cosa sono <inspiration> INT <laugh> INT no allora questa semb+ / finge il metallo finge l'argento <inspiration>.
-wavs/G01V01P01phr045.wav|ma e' cartapesta <sp> <tongue-click> quindi anche in questo caso <inspiration> un materiale povero <inspiration> l'artista che li realizzo' e' Giuseppe Sanmartino <sp> non so se conoscete il nome e' colui/ <vocal>.
-wavs/G01V01P01phr047.wav|passa per per i piu' / <sp> <ehm> colui che ha realizzato il Cristo Velato nella cappella <inspiration> nella Cappella Sansevero <sp> pero' in realta' anche qui <inspiration> <ehm> in chiesa <tongue-click> e.
-wavs/G01V01P01phr46.wav|in Certosa abbiamo varie sue <inspiration> sue opere <inspiration> tra un attimo <sp> <ehm> ci sposteremo <sp> alle spalle dell'altare per visitare <sp> il coro <inspiration> <eeh> <sp> nel capitolo fondamentalmente si prendono le decisioni piu' importanti riguardanti la vita <inspiration>.
-wavs/G01V01P02phr1.wav|Allora ci siamo <PRL> spostati <sp> dalla <sp> Chiesa abbiamo attraversato il chiostro dei procuratori <inspiration>.
-wavs/G01V01P02phr1b.wav|che erano <ehm>  insomma delle figure abbastanza importanti per <sp> <ehm>.
-wavs/G01V01P02phr1c.wav|e funzionali alla vita alla v+/ alla vita della Certosa.
-wavs/G01V01P02phr2.wav|<inspiration> cioe' ovvero erano coloro che si occupavano <inspiration> delle <eeh> come dire dell amministrazione della vita quotidiana.
-wavs/G01V01P02phr2b.wav|<sp> di tutto cio' che concerne la vita <inspiration> <eeh> quotidiana e i rapporti con l esterno <sp> dei certosini.
-wavs/G01V01P02phr3.wav|<inspiration> che ovviamente <sp> vi dicevo <sp> sono degli eremiti Sono degli eremiti che vivono <inspiration> in comunita'.
-wavs/G01V01P02phr3b.wav|<sp> quindi  <PRL> una regola ibrida per certi per certi versi quindi <sp> <eeh> di <eeh> monaci che scelgono una forma <inspiration>.
-wavs/G01V01P02phr3c.wav|<ehm> di allontanamento dal mondo <inspiration> <eeh> <tongue-click> che pero' <sp> <nn>non rinunciano diciamo in qualche modo a una vita <tongue-click>.
-wavs/G01V01P02phr3d.wav|di comunita' <sp> quindi una sorta di formula <sp> a meta' a meta' strada in un certo in un certo senso e quindi doveva esserci.
-wavs/G01V01P02phr3e.wav|<inspiration> qualcuno <sp> che si occupava <inspiration> innanzitutto dei rapporti <sp> con con l'esterno.
-wavs/G01V01P02phr4.wav|<inspiration> Io non so che impressione <sp> <ehm> <tongue-click> avete per esempio <eeh> abbiate avuto adesso che siamo entrati all interno del <sp> chiostro ma <inspiration> <eeh> la vita.
-wavs/G01V01P02phr4b.wav|<eeh> fuori <sp> la vita del mondo/ il mondo esterno <sp> qui non entra non entra in nessun modo.
-wavs/G01V01P02phr5.wav|<inspiration> <ehm> <sp> <cough> non entra adesso c+  <ehm> che <sp> come <PRL> <PRL> dire la citta' e e il quartiere sono molto animati figuriamoci.
-wavs/G01V01P02phr5b.wav|<inspiration> secoli e secoli fa quindi effettivamente la scelta e' caduta su un posto <breath> perfetto <inspiration> in questo <ehm> <sp> in questo senso.
-wavs/G01V01P02phr6.wav|<tongue-click> Abbiamo attraversato quindi il chiostro dei procuratori <breath> il corridoio <eeh>  <ehm> in cui <sp>.
-wavs/G01V01P02phr6b.wav|abbiamo sulla sinistra avevamo il refettorio <tongue-click> dei certosini <breath> <eeh> dove i certosini <sp> <ehm>.
+wavs/G01V01P01phr045.wav|ma è cartapesta <sp> <tongue-click> quindi anche in questo caso <inspiration> un materiale povero <inspiration> l'artista che li realizzò è Giuseppe Sanmartino <sp> non so se conoscete il nome è colui/ <vocal>.
+wavs/G01V01P01phr047.wav|passa per per i più / <sp> <ehm> colui che ha realizzato il Cristo Velato nella cappellaaa <inspiration> nella Cappella Sansevero <sp> però in realtà anche qui <inspiration> <ehm> in chiesa <tongue-click> eee.
+wavs/G01V01P01phr046.wav|in Certosa abbiamo varie sueee <inspiration> sue opere <inspiration> tra un attimo <sp> <ehm> ci sposteremo <sp> alle spalle dell'altare per visitare <sp> il coro.
+wavs/G01V01P02phr1.wav|Allora ci siamooo spostati <sp> dalla <sp> Chiesa abbiamo attraversato il chiostro dei procuratoriii <inspiration>.
+wavs/G01V01P02phr1b.wav|cheee eranooo <ehm> insomma delle figure abbastanza importanti per <sp> <ehm>.
+wavs/G01V01P02phr1c.wav|e funzionali alla vitaaa alla v+/ alla vita della Certosa.
+wavs/G01V01P02phr2.wav|<inspiration> cioè ovvero erano coloro che si occupavano <inspiration> delleee <eeh> come direee dell amministrazione della vita quotidiana.
+wavs/G01V01P02phr2b.wav|<sp> di tutto ciò che concerne la vitaaa <inspiration> <eeh> quotidiana e i rapporti con l esterno <sp> dei certosini.
+wavs/G01V01P02phr3.wav|<inspiration> che ovviamente <sp> vi dicevo <sp> sono degli eremiti Sono degli eremiti che vivonooo <inspiration> in comunità.
+wavs/G01V01P02phr3b.wav|<sp> quindiii una regolaaa ibrida per certiii per certi versi quindi <sp> <eeh> di <eeh> monaci che scelgono una forma <inspiration>.
+wavs/G01V01P02phr3c.wav|<ehm> di allontanamento dal mondooo <inspiration> <eeh> <tongue-click> che però <sp> <nn>non rinunciano diciamo in qualche modo a una vitaaa <tongue-click>.
+wavs/G01V01P02phr3d.wav|di comunità <sp> quindi una sorta di formula <sp> a metàaa a metà strada in un certo in un certo senso e quindi doveva esserci.
+wavs/G01V01P02phr3e.wav|<inspiration> qualcuno <sp> che si occupava <inspiration> innanzitutto dei rapporti <sp> connn con l'esterno.
+wavs/G01V01P02phr4.wav|<inspiration> Io non so che impressioneee <sp> <ehm> <tongue-click> avete per esempio <eeh> abbiate avuto adesso che siamo entrati all interno del <sp> chiostro ma <inspiration> <eeh> la vita.
+wavs/G01V01P02phr4b.wav|<eeh> fuori <sp> la vitaaa del mondo/ il mondo esterno <sp> quiii non entraaa non entra in nessun modo.
+wavs/G01V01P02phr5.wav|<inspiration> <ehm> <sp> <cough> non entra adesso c+ <ehm> che <sp> come dire la cittàaa eee e il quartiere sono molto animati figuriamoci.
+wavs/G01V01P02phr5b.wav|<inspiration> secoliii e secoli fa quindi effettivamente la scelta è caduta su un postooo <breath> perfetto <inspiration> in questooo <ehm> <sp> in questo senso.
+wavs/G01V01P02phr6.wav|<tongue-click> Abbiamo attraversato quindi il chiostro dei procuratori <breath> il corridoio <eeh> <ehm> in cuiii <sp>.
+wavs/G01V01P02phr6b.wav|abbiamooo sulla sinistra avevamo il refettorio <tongue-click> dei certosini <breath> <eeh> dove i certosiniii <sp> <ehm>.
 wavs/G01V01P02phr6c.wav|prendevano i pasti solo in occasioni particolari e <dd>dove <sp> anche in quei casi <breath> non rompevano <sp> il voto del silenzio.
-wavs/G01V01P02phr7.wav|<breath> Quindi durante i pasti si taceva <breath> e si ascoltava il confratello <sp> che <sp> <PRL> <ehm> leggeva testi sacri.
-wavs/G01V01P02phr8.wav|<breath> Di fronte <sp> <eeh> al refettorio <sp> la porta che avevamo sulla destra in realta' <breath> che adesso ospita la sezione presepiale <breath>.
-wavs/G01V01P02phr8b.wav|era il luogo deputato al alle <PRL> cucine <sp> quindi <sp> refettorio e cucine andavano insomma insieme <sp>.
-wavs/G01V01P02phr8c.wav|<ehm> maniera molto appunto logica in un certo in un certo senso.
-wavs/G01V01P02phr9.wav|<breath> e poi siamo arrivati al chiostro al chiostro grande <breath> chiostro grande dove adesso <eeh>.
-wavs/G01V01P02phr9b.wav|se insomma guardate <tongue-click> <ehm> <sp> e' circondato <breath> <ehm> ci sono tutta una serie di porticine.
-wavs/G01V01P02phr10.wav|<tongue-click> Queste porticine non sono altro che <breath> le celle <sp> dove <PRL> <sp> vivevano per l'appunto certosini.
-wavs/G01V01P02phr11.wav|<breath> Certosini che passavano <sp> la maggior parte del loro tempo all interno delle delle loro *cerle celle per l'appunto <breath>.
-wavs/G01V01P02phr11b.wav|studiando pregando <breath> <eeh> dedicandosi anche <tongue-click> a <sp> <ehm> lavori manuali allo studio.
-wavs/G01V01P02phr12.wav|<breath> <ehm> anche <aa> all ora dei pasti <breath> <ehm> appunto il cibo gli veniva servito <sp> all'interno <sp> della.
-wavs/G01V01P02phr12b.wav|della cella quella piccola finestrella che vedete quella quadrata insomma quella piu' piccina <breath> serviva anche non da da passavivande.
-wavs/G01V01P02phr13.wav|<breath> Solitamente poiche' i certosini passavano la maggior parte del tempo <breath> <sp> all'interno appunto delle loro celle <breath>.
-wavs/G01V01P02phr13b.wav|senza fare troppo vita <sp> di *comunica <sp> di comunita' come come dicevo prima <sp> <cough> in realta' <sp> <ehm> le celle dei certosini in linea di massima sono sempre.
-wavs/G01V01P02phr13c.wav|abbastanza <breath> confortevoli <inspiration> proprio perche' il monaco passava la maggior parte del suo tempo <sp> all'interno di questo <tongue-click> di questo luogo.
-wavs/G01V01P02phr13d.wav|<breath> e il chiostro che e' uno dei luoghi tipici <sp> insomma di dei monasteri non solo delle delle certosine <breath>.
+wavs/G01V01P02phr7.wav|<breath> Quindi durante i pasti si taceva <breath> e si ascoltava il confratello <sp> che <sp> <ehm> leggeva testi sacri.
+wavs/G01V01P02phr8.wav|<breath> Di fronte <sp> <eeh> al refettorio <sp> la porta che avevamo sulla destra in realtà <breath> che adesso ospita la sezione presepiale <breath>.
+wavs/G01V01P02phr8b.wav|era il luogo deputato al alleee cucine <sp> quindi <sp> refettorio e cucine andavano insommaaa insieme <sp>.
+wavs/G01V01P02phr8c.wav|<ehm> manieraaa molto appunto logica in un certooo in un certo senso.
+wavs/G01V01P02phr9.wav|<breath> e poi siamo arrivati al chiostrooo al chiostro grande <breath> chiostro grande dove adesso <eeh>.
+wavs/G01V01P02phr9b.wav|se insommaaa guardate <tongue-click> <ehm> <sp> è circondato <breath> <ehm> ci sono tutta una serie di porticine.
+wavs/G01V01P02phr10.wav|<tongue-click> Queste porticine non sono altro che <breath> le celle <sp> doveee <sp> vivevano per l'appunto certosini.
+wavs/G01V01P02phr11.wav|<breath> Certosini che passavano <sp> la maggior parte del loro tempo all interno delleee delle loro *cerle celle per l'appunto <breath>.
+wavs/G01V01P02phr11b.wav|studiando pregando <breath> <eeh> dedicandosi anche <tongue-click> a <sp> <ehm> lavoriii manuali allo studio.
+wavs/G01V01P02phr12.wav|<breath> <ehm> anche <aa> all ora dei pasti <breath> <ehm> appunto il cibo gli veniva servito <sp> all'interno <sp> dellaaa.
+wavs/G01V01P02phr12b.wav|della cella quella piccola finestrella che vedete quellaaa quadrata insomma quella più piccina <breath> serviva anche non daaa da passavivande.
+wavs/G01V01P02phr13.wav|<breath> Solitamente poichè i certosini passavano la maggior parte del tempo <breath> <sp> all'interno appunto delle loro celle <breath>.
+wavs/G01V01P02phr13b.wav|senza fare troppo vita <sp> di *comunica <sp> di comunità comeee come dicevo prima <sp> <cough> in realtà <sp> <ehm> le celle dei certosini in linea di massima sono sempre.
+wavs/G01V01P02phr13c.wav|abbastanza <breath> confortevoli <inspiration> proprio perchè il monaco passava la maggior parte del suo tempo <sp> all'interno di questooo <tongue-click> di questo luogo.
+wavs/G01V01P02phr13d.wav|<breath> e il chiostro che è uno dei luoghi tipici <sp> insomma di dei monasteri non solo delleee delle certosine <breath>.
 wavs/G01V01P02phr13e.wav|<eeh> noi <sp> oggi <eeh> potremmo pensarlo innanzitutto come <sp> come sorta di luogo di ricreazione in un certo senso dove si fa <breath> dove si prende una boccata d'aria.
-wavs/G01V01P02phr13f.wav|<breath> In realta' il chiostro <sp> e' <sp> spazio <sp> per la meditazione <sp> xE8 il luogo per la meditazione <breath> <ehm>.
+wavs/G01V01P02phr13f.wav|<breath> In realtà il chiostro <sp> è <sp> spazio <sp> per la meditazione <sp> xE8 il luogo per la meditazione <breath> <ehm>.
 wavs/G01V01P02phr15.wav|<sp> e <sp> <ehm> anche proprio per non <ehm> per controllare che certosini facessero seguissero <breath>.
-wavs/G01V01P02phr15b.wav|<eeh> la regola pa+ passassero la maggior parte del tempo nelle loro celle <breath> <eeh> non rompessero il silenzio all interno appunto del chiostro grande.
-wavs/G01V01P02phr15c.wav|<breath> in realta' il Priore aveva diretto accesso <breath> <eeh> a questo luogo <sp> per fare come <sp> diciamo.
-wavs/G01V01P02phr15d.wav|<sp> delle visite a sorpresa <laugh> <breath> per  vedere se appunto tutto <sp> era fatto <sp> a dovere.
-wavs/G01V01P02phr16.wav|<tongue-click> Ma <sp> per tornare alla meditazione <breath> <ehm> la meditazione e' uno degli argomenti <sp> su cui si finisce per <ehm>.
-wavs/G01V01P02phr16b.wav|meditare <breath> piu' di tutti e' quello proprio <breath> della vita oltre la morte o comunque al fatto che a un certo punto tutti noi <inspiration> dobbiamo passare a miglior vita.
-wavs/G01V01P02phr17.wav|<breath> ed ecco che perche' ecco spiegato questo spazio che e' <breath> alle mie spalle e soprattutto <breath> la presenza <breath> di questi teschi che sono.
-wavs/G01V01P02phr17b.wav|scolpiti spesso i bambini mi chiedono ma sono veri <breath> <laugh> lo sono <unclear> sono scolpiti <breath> <ehm> pero' <eeh> <sp> e' proprio effettivamente questo il cimitero dei certosini.
-wavs/G01V01P02phr18.wav|quindi il certosino <sp> una volta entrato in Certosa in realta' poi non la lasciava <PRL> <breath> non la lasciava mai piu'.
-wavs/G01V01P02phr19.wav|<tongue-click> <eeh> Per di piu' <breath> <eeh> i certosini venivano <sp> <eeh> seppelliti <breath> <eeh> senza bara <sp> <tongue-click> quindi di fatto.
-wavs/G01V01P02phr19b.wav|<eeh> come dire <sp> la <sp> la la decomposizione <breath> <aa>avveniva in maniera piu' rapida.
-wavs/G01V01P02phr20.wav|ecco spiegato perche' voltea volte mi chiedono anche <breath> ma perche' lo spazio e' cosi' <inspiration> piccolino <sp> <tongue-click> <unclear+> /.
-wavs/G01V01P02phr20b.wav|insomma <sp> senza entrare troppo nei particolari ce lo possiamo immaginare insomma <breath> <eeh> il perche'.
+wavs/G01V01P02phr15b.wav|<eeh> la regola pa+ passassero la maggior parte del tempo nelle loro celle <breath> <eeh> non rompessero il silenzio all internooo appunto del chiostro grande.
+wavs/G01V01P02phr15c.wav|<breath> in realtà il Priore aveva diretto accesso <breath> <eeh> a questo luogo <sp> per fare comeee <sp> diciamooo.
+wavs/G01V01P02phr15d.wav|<sp> delle visite a sorpresa <laugh> <breath> per vedere se appunto tuttooo <sp> era fattooo <sp> aaa dovere.
+wavs/G01V01P02phr16.wav|<tongue-click> Ma <sp> per tornare alla meditazione <breath> <ehm> la meditazione è uno degli argomenti <sp> su cuiii si finisce per <ehm>.
+wavs/G01V01P02phr16b.wav|meditare <breath> più di tutti è quello proprio <breath> della vita oltre la morte o comunque al fatto che a un certo punto tutti noi <inspiration> dobbiamo passare a miglior vita.
+wavs/G01V01P02phr17.wav|<breath> ed ecco che perchè ecco spiegato questo spazio che è <breath> alle mie spalle e soprattutto <breath> la presenza <breath> di questiii teschi che sono.
+wavs/G01V01P02phr17b.wav|scolpiti spesso i bambini mi chiedono ma sono veri <breath> <laugh> lo sono <unclear> sono scolpiti <breath> <ehm> però <eeh> <sp> è proprio effettivamente questo il cimitero dei certosini.
+wavs/G01V01P02phr18.wav|quindi il certosino <sp> una volta entrato in Certosa in realtà poi non la lasciavaaa <breath> non la lasciava mai più.
+wavs/G01V01P02phr19.wav|<tongue-click> <eeh> Per di più <breath> <eeh> i certosini venivanooo <sp> <eeh> seppelliti <breath> <eeh> senza bara <sp> <tongue-click> quindi di fattooo.
+wavs/G01V01P02phr19b.wav|<eeh> come dire <sp> la <sp> laaa la decomposizione <breath> <aa>avveniva in maniera più rapida.
+wavs/G01V01P02phr20.wav|ecco spiegato perchè voltea volte mi chiedono anche <breath> ma perchè lo spazio è così <inspiration> piccolinooo <sp> <tongue-click> <unclear+> /.
+wavs/G01V01P02phr20b.wav|insomma <sp> senza entrare troppo nei particolari ce lo possiamo immaginare insomma <breath> <eeh> il perchè.
 wavs/G01V01P02phr21.wav|<breath> <ehm> <sp> e <eeh> il confratello che veniva sepolto <eeh> veniva sepolto insomma la sua tomba <eeh> il <eeh>.
-wavs/G01V01P02phr21b.wav|luogo della sua sepoltura veniva segnalato semplicemente <breath> da una croce <sp> niente di <sp> particolare <breath> pero'.
-wavs/G01V01P02phr21c.wav|la notizia della sua morte poi veniva data insomma tutte le altre <breath> Certose quindi arrivava la notizia del fatto che fosse passato <breath> <ehm> a miglior vita.
-wavs/G01V01P02phr22.wav|<inspiration> <sp> <tongue-click> Al centro <sp> <eeh> del chiostro <sp> che <ehm> e' stato cominciato <breath> <eeh> in quella fase <breath> <eeh> di fin+ da par+.
-wavs/G01V01P02phr22b.wav|<ehm> di fine Cinquecento di cui parlavamo prima da un architetto di origine toscana il Dosio viene poi <sp> completato.
+wavs/G01V01P02phr21b.wav|luogo della sua sepoltura veniva segnalato semplicemente <breath> da una croce <sp> niente diii <sp> particolare <breath> però.
+wavs/G01V01P02phr21c.wav|la notizia della sua morte poi veniva data insomma tutte le altreee <breath> Certose quindi arrivava la notizia del fatto che fosse passato <breath> <ehm> a miglior vita.
+wavs/G01V01P02phr22.wav|<inspiration> <sp> <tongue-click> Al centro <sp> <eeh> del chiostro <sp> che <ehm> è stato cominciato <breath> <eeh> in quella faseee <breath> <eeh> di fin+ da par+.
+wavs/G01V01P02phr22b.wav|<ehm> di fine Cinquecento di cuiii parlavamo prima da un architetto di origine toscana il Dosio viene poi <sp> completato.
 wavs/G01V01P02phr22c.wav|<breath> e terminato da Fanzago <sp> quell'altro personaggio.
-wavs/G01V01P02phr22d.wav|<breath> di cui prima abbiamo <sp> abbiamo parlato e non so se avete notato che al centro <breath> c'e' <sp> un pozzo <sp>.
-wavs/G01V01P02phr23.wav|<inspiration> Per tornare al discorso <ehm> dell' autosufficienza <sp> <mh> di una Certosa <inspiration>.
-wavs/G01V01P02phr23b.wav|e' bene quindi ricordarsi anche della questione della <ehm> dell approvvigionamento idrico <sp> del sistema <sp> che veniva utilizzato.
-wavs/G01V01P02phr24.wav|sistema <breath> che <sp> <eeh> dalla sua dalla sua dal momento della sua creazione sempre funzionato benissimo qui in Certosa <breath>.
-wavs/G01V01P02phr24b.wav|e piu' di un' occasione <sp> in piu' di un occasione ha salvato la vita <breath> ai Certosini.
-wavs/G01V01P02phr25.wav|<breath> Sempre faccio riferimento <eeh> a voi che siete napoletani quindi <breath> un po <sp> di storia della citta' <tongue-click> <eeh> <sp>.
-wavs/G01V01P02phr25b.wav|<tongue-click> magari ne avete avuto notizia c'e' <eeh> una data che ricorre spessissimo nei racconti <breath> <ehm>.
-wavs/G01V01P02phr25c.wav|sul sulla nostro sul nostro passato che e' quella del  mille-seicentocinquantasei <breath> cioe' della <sp> tutto sommato potremmo <breath>.
-wavs/G01V01P02phr25d.wav|<eeh> definirla come la peggiore epidemia di peste <sp> <tongue-click> che abbiamo avuto <sp> qui a Napoli ha praticamente quasi <breath>.
-wavs/G01V01P02phr25e.wav|dimezzato la popolazione in un momento in cui tra l'altro Napoli era la <breath> seconda citta' piu' popolosa d'Europa <breath> dopo dopo Parigi.
-wavs/G01V01P02phr26.wav|<breath> bene questa in questo momento in questa emergenza in quest+ durante questa terribile <breath> <ehm> carestia in realta' <sp> anche <breath>.
-wavs/G01V01P02phr26b.wav|<ehm> la possibilita' di avere dell acqua pulita <breath> salvo' la vita ai certosini che <sp> in verita' con molto poco spirito cristiano.
+wavs/G01V01P02phr22d.wav|<breath> di cui prima abbiamo <sp> abbiamo parlato e non so se avete notato che al centro <breath> c'è <sp> un pozzo <sp>.
+wavs/G01V01P02phr23.wav|<inspiration> Per tornare al discorsooo <ehm> dell' autosufficienza <sp> <mh> di una Certosa <inspiration>.
+wavs/G01V01P02phr23b.wav|è bene quindi ricordarsi anche della questione dellaaa <ehm> dell approvvigionamentooo idrico <sp> del sistema <sp> che veniva utilizzato.
+wavs/G01V01P02phr24.wav|sistema <breath> che <sp> <eeh> dalla suaaa dalla sua dal momento della sua creazione sempre funzionato benissimo qui in Certosa <breath>.
+wavs/G01V01P02phr24b.wav|e più di un' occasione <sp> in più di un occasione ha salvato la vita <breath> ai Certosini.
+wavs/G01V01P02phr25.wav|<breath> Sempre faccio riferimento <eeh> a voi che siete napoletani quindi <breath> un pooo <sp> di storia della città <tongue-click> <eeh> <sp>.
+wavs/G01V01P02phr25b.wav|<tongue-click> magari ne avete avuto notizia c'è <eeh> una data che ricorre spessissimo neiii racconti <breath> <ehm>.
+wavs/G01V01P02phr25c.wav|sul sulla nostro sul nostro passato che è quella del mille-seicentocinquantasei <breath> cioè dellaaa <sp> tutto sommato potremmooo <breath>.
+wavs/G01V01P02phr25d.wav|<eeh> definirla come la peggioreee epidemia di peste <sp> <tongue-click> che abbiamo avuto <sp> qui a Napoli ha praticamente quasi <breath>.
+wavs/G01V01P02phr25e.wav|dimezzato la popolazione in un momento in cui tra l'altro Napoli era laaa <breath> seconda città più popolosa d'Europa <breath> dopooo dopo Parigi.
+wavs/G01V01P02phr26.wav|<breath> bene questaaa in questo momento in questa emergenza in quest+ durante questa terribile <breath> <ehm> carestia in realtà <sp> anche <breath>.
+wavs/G01V01P02phr26b.wav|<ehm> la possibilità di avere dell acqua pulita <breath> salvò la vita ai certosini che <sp> in verità connn molto poco spirito cristiano.
 wavs/G01V01P02phr26c.wav|<breath> si barricarono maggior ragione all'interno <sp> delle mura della Certosa <breath> e <sp> <eeh> che <ehm> <sp> e insomma uscirono fuori comunque.
 wavs/G01V01P02phr26d.wav|<breath> ri+ <eeh> riricominciarono i rapporti con l esterno solamente <sp> a <sp> pericolo scampato quindi a emergenza <breath>.
 wavs/G01V01P02phr26f.wav|<ehm> conclusa insomma insomma quando.
-wavs/G01V01P02phr26e.wav|<breath> ormai ogni cosa era tornata <sp> alla <sp> alla normalita'.
-wavs/G01V01P03phr27.wav|allora quindi dal <PRL> chiostro <sp> <tongue-click> <inspiration> <eeh> ci troviamo adesso in parlatorio <sp> <inspiration> poi.
+wavs/G01V01P02phr26e.wav|<breath> ormai ogni cosa era tornata <sp> allaaa <sp> alla normalità.
+wavs/G01V01P03phr27.wav|allora quindi dalll chiostro <sp> <tongue-click> <inspiration> <eeh> ci troviamo adesso in parlatorio <sp> <inspiration> poi.
 wavs/G01V01P03phr27b.wav|<sp> man mano che avanziamo vi renderete conto che di fatto ci troviamo <sp> alle spalle <inspiration>.
 wavs/G01V01P03phr27c.wav|della chiesa di cui noi abbiamo parlato proprio all'inizio <inspiration> della nostra della nostra visita.
-wavs/G01V01P03phr28.wav|<inspiration> e in realta' noi andiamo <eeh> a ritroso in un certo in un certo senso.
+wavs/G01V01P03phr28.wav|<inspiration> e in realtà noi andiamooo <eeh> a ritroso in un certooo in un certo senso.
 wavs/G01V01P03phr29.wav|<inspiration> qui nel parlatorio i certosini <inspiration> <eeh> poteva+/ era loro era permesso rompere il famoso voto di silenzio di cui <inspiration>.
-wavs/G01V01P03phr29b.wav|parlavamo parlavamo prima quindi era possibile <inspiration>.
+wavs/G01V01P03phr29b.wav|parlavamooo parlavamo prima quindi era possibile <inspiration>.
 wavs/G01V01P03phr29c.wav|<eeh> scambiarsi insomma opinioni <eeh> era possibile finalmente appunto parlare minimo.
 wavs/G01V01P03phr30.wav|<inspiration> <sp> <eeh> <lp> <tongue-click> <lp> come vedete in tutti gli ambienti che attraverseremo <inspiration> <eeh> ci sono degli stalli <sp>.
 wavs/G01V01P03phr30b.wav|che sono qui proprio per l'appunto per permettere ai Certosini di <inspiration> <lp> accomodarsi <sp>.
-wavs/G01V01P03phr31.wav|<inspiraiton> e <sp> <ehm> questa sala <inspiration> e' affrescata <sp> con le storie di San Bruno.
-wavs/G01V01P03phr31b.wav|quindi finalmente veniamo a capire chi e' questo San Bruno che <inspiration> a lungo e varie volte abbiamo nominato.
-wavs/G01V01P03phr32.wav|<inspiration> in realta' sulla parte <inspiration> <ehm> superior della volta ci sono come sempre episodi della storia di Cristo che noi insomma.
-wavs/G01V01P03phr32b.wav|<sp> conosciamo abbastanza abbastanza bene quel che piu' ci interessa ed e' piu' tipico in un certo senso.
-wavs/G01V01P03phr32c.wav|<sp> delle Certose e' proprio <sp> per l'appunto <inspiration> la storia di di San Bruno.
-wavs/G01V01P03phr33.wav|<inspiration> <eeh> San Bruno o Brunone <inspiration> <eeh> era originario di Colonia quindi di origine tedesca.
-wavs/G01V01P03phr33b.wav|<inspiration> poi si sposta in Francia dove studia <sp> va/ comincia a a astudiare.
-wavs/G01V01P03phr34.wav|<inspiration> e' forte in lui <sp> il desiderio di <sp> separarsi <inspiration> <eeh> dalla vita mondana quindi dalla vita di tutti i giorni pur essendo appunto considerato.
-wavs/G01V01P03phr34b.wav|<inspiration> <ehm> un grande <PRL> grande studio+ studioso pozzo di scienza per certi versi.
-wavs/G01V01P03phr34c.wav|<inspiration> <ehm> in lui e' piu' forte appunto questo desiderio <sp> di separarsi dal resto <sp> dal resto del mondo.
-wavs/G01V01P03phr35.wav|<inspiration> <lp> e <inspiration> insieme ad altri sei compagni <inspiration> si reca <sp> <eeh> dal vescovo.
-wavs/G01V01P03phr35b.wav|<inspiration> <eeh> di Grenoble <sp> che poi diventera' Sant'Ugo <sp> che non e' nient'altro che il personaggio che <inspiration> <eeh> vedete.
-wavs/G01V01P03phr35c.wav|<inspiration> <eeh> in questo affresco <sp> da questa <sp> da questa parte.
+wavs/G01V01P03phr31.wav|<inspiraiton> e <sp> <ehm> questaaa sala <inspiration> è affrescata <sp> con le storie di San Bruno.
+wavs/G01V01P03phr31b.wav|quindi finalmente veniamo a capire chi è questo San Bruno che <inspiration> a lungooo e varie volte abbiamo nominato.
+wavs/G01V01P03phr32.wav|<inspiration> in realtà sulla parte <inspiration> <ehm> superior della volta ci sono come sempre episodi della storiaaa di Cristo che noi insomma.
+wavs/G01V01P03phr32b.wav|<sp> conosciamo abbastanzaaa abbastanza bene quel che più ci interessa ed è più tipico in un certo senso.
+wavs/G01V01P03phr32c.wav|<sp> delle Certose è proprio <sp> per l'appunto <inspiration> la storia di di San Bruno.
+wavs/G01V01P03phr33.wav|<inspiration> <eeh> San Bruno o Brunone <inspiration> <eeh> era originario diii Colonia quindi di origine tedesca.
+wavs/G01V01P03phr33b.wav|<inspiration> poi si sposta in Francia doveee studia <sp> va/ comincia aaa a astudiare.
+wavs/G01V01P03phr34.wav|<inspiration> è forte in lui <sp> il desiderio di <sp> separarsi <inspiration> <eeh> dalla vita mondana quindi dalla vita di tutti i giorni pur essendo appunto considerato.
+wavs/G01V01P03phr34b.wav|<inspiration> <ehm> un grandeee grande studio+ studioso pozzo di scienza per certi versi.
+wavs/G01V01P03phr34c.wav|<inspiration> <ehm> in lui è più forte appunto questo desiderio <sp> di separarsi dal restooo <sp> dal resto del mondo.
+wavs/G01V01P03phr35.wav|<inspiration> <lp> e <inspiration> insieme ad altriii seiii compagni <inspiration> si reca <sp> <eeh> dal vescovo.
+wavs/G01V01P03phr35b.wav|<inspiration> <eeh> di Grenoble <sp> che poi diventerà Sant'Ugo <sp> che non è nient'altro che il personaggio che <inspiration> <eeh> vedete.
+wavs/G01V01P03phr35c.wav|<inspiration> <eeh> in questo affresco <sp> da questaaa <sp> da questa parte.
 wavs/G01V01P03phr36.wav|quindi <inspiration> <eeh> San Bruno <inspiration> <sp> chiede a Sant'Ugo di concedergli.
 wavs/G01V01P03phr36b.wav|<inspiration <eeh> un appezzamento di terreno un luogo dove potersi stabilire.
-wavs/G01V01P03phr36c.wav|<inspiration> con i suoi compagni e fondare appunto una sor+ e ritirarsi <sp> e fondare una sorta di comunita'.
+wavs/G01V01P03phr36c.wav|<inspiration> con i suoi compagni e fondare appunto una sor+ e ritirarsi <sp> e fondare una sorta di comunità.
 wavs/G01V01P03phr37.wav|<inspiration> <eeh> Sant'Ugo <sp> lo rivedete nello stesso affresco <sp> nell'angolo <sp> a destra.
-wavs/G01V01P03phr37b.wav|<lp> <tongue click> mentre dorme in quel letto a baldacchino <inspiration> <eeh> di color di color verde.
+wavs/G01V01P03phr37b.wav|<lp> <tongue click> mentre dorme in quel letto a baldacchinooo <inspiration> <eeh> di colorrr di color verde.
 wavs/G01V01P03phr37c.wav|<inspiration> sopra al letto con il baldacchino potete vedere che ci sono sette stelle <lp>.
-wavs/G01V01P03phr37d.wav|<tongue click> quella appunto e' una visione un sogno che lui ha <ehm> <ehm> <inspiration> mentre mentre dorme che non e' nient'altro in fondo che il placet divino.
+wavs/G01V01P03phr37d.wav|<tongue click> quella appunto è una visione un sogno che lui ha <ehm> <ehm> <inspiration> mentre mentre dorme che non è nient'altro in fondo che il placet divino.
 wavs/G01V01P03phr37e.wav|<inspiration> <eeh> e dopo questo per l'appunto Sant'Ugo decide <sp> di concedere <inspiration> <eeh> un appezzamento di terreno appunto a San Bruno.
 wavs/G01V01P03phr37f.wav|<inspiration> in un luogo che si chiama Chartreuse.
-wavs/G01V01P03phr38.wav|<lp> e da qui appunto viene il nome di di Certosa italianizzato <inspiration> <eeh> di di Certosa tant'e' vero che appunto <inspiration> <eeh>.
-wavs/G01V01P03phr38b.wav|la scena si conclude con sullo sfondo <inspiration> Sant'Ugo di nuovo col suo cappello da vescovo bianco.
-wavs/G01V01P03phr38c.wav|<inspiration> e <sp> <eeh> San Bruno e i suoi compagni gia' vestiti <inspiration> con l'abito bianco dell'ordine.
-wavs/G01V01P03phr39.wav|<inspiration> non so se ci avete gia' fatto caso <lp> <tongue click> ma anche quando ci trovammo ci trovavamo nel pronao <inspiration> tutti i certosini gia' vestivano insomma quest'abito bianco quindi forse.
-wavs/G01V01P03phr39b.wav|<inspiration> gia' vi sarete <inspiration> insomma accorti che quella era <sp> diciamo cosi' <inspiration> <eeh> la divisa <sp> e il saio <inspiration>.
+wavs/G01V01P03phr38.wav|<lp> e da qui appunto viene il nome diii di Certosa italianizzato <inspiration> <eeh> di di Certosa tant'è vero che appunto <inspiration> <eeh>.
+wavs/G01V01P03phr38b.wav|la scena si conclude connn sullo sfondo <inspiration> Sant'Ugo di nuovo col suo cappello da vescovo bianco.
+wavs/G01V01P03phr38c.wav|<inspiration> e <sp> <eeh> San Bruno e i suoi compagni già vestiti <inspiration> con l'abito bianco dell'ordine.
+wavs/G01V01P03phr39.wav|<inspiration> non so se ci avete già fatto caso <lp> <tongue click> ma anche quando ci trovammo ci trovavamo nel pronao <inspiration> tutti i certosini già vestivano insomma quest'abito bianco quindi forse.
+wavs/G01V01P03phr39b.wav|<inspiration> già vi sarete <inspiration> insomma accorti che quella era <sp> diciamo così <inspiration> <eeh> la divisa <sp> e il saio <inspiration>.
 wavs/G01V01P03phr39c.wav|<eeh> degli appartame+ degli appartenenti all'Ordine all'Ordine certosino.
-wavs/G01V01P03phr40.wav|<inspiration> <ehm> proprio per le sue quale+ qualita' <eeh> umane <inspiration> <eeh> e.
+wavs/G01V01P03phr40.wav|<inspiration> <ehm> proprio per le sue quale+ qualità <eeh> umane <inspiration> <eeh> e.
 wavs/G01V01P03phr40b.wav|<ehm> spirituali <inspiration> <ehm> <sp> il Papa <eeh>.
 wavs/G01V01P03phr40c.wav|Urbano Secondo chiama <inspiration> San Bruno a Roma.
-wavs/G01V01P03phr41.wav|<lp> <tongue click> lui non puo' far altro che come dire accontentare assecondare <inspiration>.
-wavs/G01V01P03phr41b.wav|il desiderio del Papa e per l'appunto si reca <inspiration> nella capitale <inspiration> pontificia.
-wavs/G01V01P03phr42.wav|dove in realta' <inspiration> <eeh> dalla quale poi in realta' e' costretto a scappare <inspiration> perché <sp>.
-wavs/G01V01P03phr42b.wav|<ehm> arriva insomma l'imperatore Urbano stesso il Papa stesso e' costretto ad andar via <inspiration> e <sp> <ehm>.
+wavs/G01V01P03phr41.wav|<lp> <tongue click> lui non può far altro cheee come dire accontentare assecondare <inspiration>.
+wavs/G01V01P03phr41b.wav|il desideriooo del Papa e per l'appunto si reca <inspiration> nella capitale <inspiration> pontificia.
+wavs/G01V01P03phr42.wav|dove in realtà <inspiration> <eeh> dalla quale poi in realtà è costretto a scappare <inspiration> perché <sp>.
+wavs/G01V01P03phr42b.wav|<ehm> arriva insomma l'imperatore Urbano stesso il Papa stesso è costretto ad andar via <inspiration> e <sp> <ehm>.
 wavs/G01V01P03phr42c.wav|<tongue click> San Bruno quindi si sposta in Italia <sp> in Italia meridionale.
 wavs/G01V01P03phr43.wav|<sp> un'Italia meridionale <inspiration> che era stata praticamente appena <inspiration> <eeh> conquistata sottomessa <sp> <eeh>.
-wavs/G01V01P03phr43b.wav|dal dall'uomo che e' alle mie spalle quello dormiente che poi potete vedere anche di la' <inspiration> ovvero Ruggero il Normanno.
-wavs/G01V01P03phr44.wav|<lp> <tongue click> quindi <inspiration> <eeh> il nostro San Bruno poi fondera' <inspiration> un'altra Certosa la prima italiana di fatto a quella che poi <sp> <ehm>.
+wavs/G01V01P03phr43b.wav|dalll dall'uomo che è alle mie spalle quello dormiente che poi potete vedere anche di là <inspiration> ovvero Ruggero il Normanno.
+wavs/G01V01P03phr44.wav|<lp> <tongue click> quindi <inspiration> <eeh> il nostro San Bruno poi fonderà <inspiration> un'altra Certosa la prima italiana di fatto a quella che poi <sp> <ehm>.
 wavs/G01V01P03phr44b.wav|oggi ancora oggi chiamiamo <eeh> Serra <inspiration> Serra San Bruno.
-wavs/G01V01P04phr45.wav|<inspiration> <tongue-click> ci siamo spostati quindi al parlatorio Adesso siamo nella sala del capitolo <inspiration> <sp> che <sp> e' una sala <ehm>.
-wavs/G01V01P04phr45b.wav|piuttosto <PRL> importante.
-wavs/G01V01P04phr46b.wav|<eeh> dei membri della comunita' certosina <inspiration> <ehm>.
-wavs/G01V01P04phr47.wav|Chiaramente presiede il capitolo <lp> il priore <lp> che e' appunto a capo.
-wavs/G01V01P04phr47b.wav|<sp> della/ e' la figura a capo della <PRL> ce+ della della Certosa <inspiration> <ehm>.
+wavs/G01V01P04phr45.wav|<inspiration> <tongue-click> ci siamo spostati quindi al parlatorio Adesso siamo nella sala del capitolo <inspiration> <sp> che <sp> è una sala <ehm>.
+wavs/G01V01P04phr45b.wav|piuttostooo importante.
+wavs/G01V01P04phr46.wav|<inspiration> <eeh> <sp> nel capitolo fondamentalmente si prendono le decisioni più importanti riguardanti la vita <inspiration>.
+wavs/G01V01P04phr46b.wav|<eeh> dei membri della comunità certosina <inspiration> <ehm>.
+wavs/G01V01P04phr47.wav|Chiaramente presiede il capitolo <lp> il priore <lp> che è appunto a capo.
+wavs/G01V01P04phr47b.wav|<sp> della/ è la figura a capo della ce+ dellaaa della Certosa <inspiration> <ehm>.
 wavs/G01V01P04phr48.wav|al capitolo partecipavano/ comunque <inspiration> <ehm> intervenivano solamente i priori e diciamo <inspiration> <eeh>.
-wavs/G01V01P04phr48b.wav|quelli che venivano considerati i suoi consiglieri quindi <inspiration> non tutti come ancora oggi diciamo in italiano <inspiration> non avevano voce <lp> <tongue-click> in in capitolo.
-wavs/G01V01P04phr49.wav|<lp> <eeh> nella nella stanza in realta' a fianco <inspiration> a questa <inspiration>.
-wavs/G01V01P04phr49b.wav|che vi invito poi a guardare quando noi passeremo da un ambiente <PRL> all'altro <inspiration> invece era dedicata era lo spazio <inspiration> per i conversi.
-wavs/G01V01P04phr50.wav|<sp> noi prima abbiamo parlato dei procuratori che vi parlavo che erano quelli che si <inspiration> che gestivano diciamo <inspiration> la vita della Certosa quella piu' quotidiana in un certo senso.
-wavs/G01V01P04phr51.wav|<inspiration> i conversi erano <inspiration> <ehm> <lp> <tongue-click> dei confratelli <sp> dei certosini che pero' non prendevano completamente.
-wavs/G01V01P04phr51b.wav|insomma come dire non facevano tutti i voti <inspiration> che <eeh> facevano i certosini stessi <inspiration> ed erano piu' dediti <inspiration>.
+wavs/G01V01P04phr48b.wav|quelli che venivano considerati i suoi consiglieri quindi <inspiration> non tutti come ancora oggi diciamo in italiano <inspiration> non avevano voce <lp> <tongue-click> innn in capitolo.
+wavs/G01V01P04phr49.wav|<lp> <eeh> nellaaa nella stanza in realtà a fianco <inspiration> a questa <inspiration>.
+wavs/G01V01P04phr49b.wav|che vi invito poi a guardare quando noi passeremo da un ambienteee all'altro <inspiration> invece era dedicata era lo spazio <inspiration> perrr i conversi.
+wavs/G01V01P04phr50.wav|<sp> noi prima abbiamo parlato dei procuratori che vi parlavo che erano quelli che siii <inspiration> che gestivano diciamo <inspiration> la vita della Certosa quella più quotidiana in un certo senso.
+wavs/G01V01P04phr51.wav|<inspiration> i conversi erano <inspiration> <ehm> <lp> <tongue-click> dei confratelli <sp> dei certosini che però non prendevano completamente.
+wavs/G01V01P04phr51b.wav|insomma come dire non facevanooo tutti i voti <inspiration> che <eeh> facevano i certosiniii stessi <inspiration> ed erano più dediti <inspiration>.
 wavs/G01V01P04phr51c.wav|<sp> a <sp> <eeh> al lavoro diciamo pratico e manuale.
-wavs/G01V01P04phr52.wav|<inspiration> in questo senso non devono essere visti come dei certosini di serie di serie B <inspiration>.
-wavs/G01V01P04phr52b.wav|ma erano come due facce della stessa della stessa medaglia.
-wavs/G01V01P04phr53.wav|<inspiration> e' come se in un certo senso i conversi avessero <inspiration> <ehm>.
-wavs/G01V01P04phr53b.wav|il ruolo di far mantenere un con+ certo contatto <lp> con la realta' <lp> <inspiration> <tongue-click> ai.
+wavs/G01V01P04phr52.wav|<inspiration> in questo senso non devono essere visti come dei certosini di serieee di serie B <inspiration>.
+wavs/G01V01P04phr52b.wav|ma erano come due facce della stessaaa della stessa medaglia.
+wavs/G01V01P04phr53.wav|<inspiration> è come se in un certo senso i conversi avessero <inspiration> <ehm>.
+wavs/G01V01P04phr53b.wav|il ruolo di far mantenere un con+ certo contatto <lp> con la realtà <lp> <inspiration> <tongue-click> aiii.
 wavs/G01V01P04phr53c.wav|<sp> ai Certosini diciamo con la C maiuscola in un certo senso.
-wavs/G01V01P04phr54.wav|<inspiration> <eeh> pero' allo stesso tempo <inspiration> <ehm> i certosini avevano il compito <inspiration>.
-wavs/G01V01P04phr54b.wav|<eeh> di ricordare diciamo cosi' ai ai conversi <sp> di non perdersi del mondo insomma <inspiration>.
-wavs/G01V01P04phr54c.wav|di ricordarsi della vita spirituale ed eremitica che loro in realta' avevano scelto.
-wavs/G01V01P04phr54d.wav|Quindi <inspiration> <sp> veramente due facce <eeh> della stessa <sp> <tongue-click> della stessa medaglia.
-wavs/G01V01P04phr55.wav|<inspiration> in particolare appunto quando passeremo perché non avremo il tempo poi di soffermarci <inspiration> <eeh> moltissimo e purtroppo l'ingresso in realta' <inspiration>.
-wavs/G01V01P04phr55b.wav|<eeh> e' proibito quindi potete solamente affacciarvi <inspiration> <ehm> non mancate di guardare le <unclear> le/ <ehm> gli affreschi realizzati <inspiration> <eeh>.
-wavs/G01V01P04phr55c.wav|da Micco Spadaro <sp> che e' stato un grande pittore del Seicento napoletano <inspiration> che si inventa queste scene <inspiration> <eeh> sacre.
+wavs/G01V01P04phr54.wav|<inspiration> <eeh> però allo stesso tempo <inspiration> <ehm> i certosini avevano il compito <inspiration>.
+wavs/G01V01P04phr54b.wav|<eeh> di ricordare diciamo così aiii ai conversi <sp> di non perdersi del mondo insomma <inspiration>.
+wavs/G01V01P04phr54c.wav|di ricordarsi della vita spirituale ed eremitica che loro in realtà avevano scelto.
+wavs/G01V01P04phr54d.wav|Quindi <inspiration> <sp> veramente due facce <eeh> della stessaaa <sp> <tongue-click> della stessa medaglia.
+wavs/G01V01P04phr55.wav|<inspiration> in particolare appunto quando passeremo perché non avremo il tempo poi di soffermarci <inspiration> <eeh> moltissimo e purtroppo l'ingresso in realtà <inspiration>.
+wavs/G01V01P04phr55b.wav|<eeh> è proibito quindi potete solamente affacciarvi <inspiration> <ehm> non mancate di guardare le <unclear> leee/ <ehm> gli affreschi realizzati <inspiration> <eeh>.
+wavs/G01V01P04phr55c.wav|da Micco Spadaro <sp> che è stato un grande pittore del Seicento napoletano <inspiration> che si inventa queste scene <inspiration> <eeh> sacre.
 wavs/G01V01P04phr55d.wav|ambientate in ampissimi paesaggi <inspiration> ma che a loro volta sono dipinte su finti arazzi.
-wavs/G01V01P04phr56.wav|<sp> <tongue-click> alcuni di questi arazzi sono/ fingono addirittura di essere mossi dal vento quindi una cosa <inspiration>.
-wavs/G01V01P04phr56b.wav|veramente straordinaria che vi consiglio di non perdervi <sp> nel passaggio tra <PRL> un ambiente all'altro.
-wavs/G01V01P04phr57.wav|<inspiration> <sp> ritornando alla funzione di questo luogo <lp> <tongue-click> <eeh> spero di avervi sottolineato abbastanza.
-wavs/G01V01P04phr57b.wav|<ehm> il fatto che si tratta di una sorta di stanza dei bottoni <lp> diciamo cosi' <inspiration> <eeh> per per la Certosa.
+wavs/G01V01P04phr56.wav|<sp> <tongue-click> alcuniii di questi arazzi sono/ fingono addirittura di essere mossi dal vento quindi una cosa <inspiration>.
+wavs/G01V01P04phr56b.wav|veramenteee straordinaria che vi consiglio di non perdervi <sp> nel passaggio traaa un ambiente all'altro.
+wavs/G01V01P04phr57.wav|<inspiration> <sp> ritornando alla funzione di questooo luogo <lp> <tongue-click> <eeh> spero di avervi sottolineato abbastanza.
+wavs/G01V01P04phr57b.wav|<ehm> il fatto che si tratta di una sorta di stanza dei bottoni <lp> diciamo così <inspiration> <eeh> perrr per la Certosa.
 wavs/G01V01P04phr58.wav|<inspiration> e se fate caso ancora una volta al programma iconografico come sempre <sp>.
-wavs/G01V01P04phr58b.wav|va sottolineato che <inspiration> <eeh> le scene non sono casuali.
-wavs/G01V01P04phr59.wav|<lp> Insieme <inspiration> come sempre <inspiration> a episodi <eeh> della vita di Cristo <inspiration>.
-wavs/G01V01P04phr59b.wav|<eeh> quello che ci interessa di piu' e' quello che potete vedere soprattutto <inspiration> nelle lunette e in questo registro <lp> <tongue-click> della sala.
+wavs/G01V01P04phr58b.wav|va sottolineato che <inspiration> <eeh> le scene non sonooo casuali.
+wavs/G01V01P04phr59.wav|<lp> Insieme <inspiration> come sempre <inspiration> a episodi <eeh> della vitaaa di Cristo <inspiration>.
+wavs/G01V01P04phr59b.wav|<eeh> quello che ci interessa di più è quello che potete vedere soprattutto <inspiration> nelle lunette e in questo registro <lp> <tongue-click> della sala.
 wavs/G01V01P04phr60.wav|perché <inspiration> nelle lunette vedete sia a destra che a sinistra <inspiration> tutti i fondatori di ordini monastici <lp> <inspiration>.
 wavs/G01V01P04phr60b.wav|quindi <sp> <eeh> San Francesco San Francesco di Paola <inspiration> <ehm> San Domenico <inspiration> San Bruno come sempre.
-wavs/G01V01P04phr61.wav|<inspiration> Quindi <sp> <eeh> sono tutti grandi uomini <lp> fonte di ispirazione <lp> per i certosini <inspiration>.
+wavs/G01V01P04phr61.wav|<inspiration> Quindi <sp> <eeh> sono tutti grandi uomini <lp> fonte di ispirazione <lp> perrr i certosini <inspiration>.
 wavs/G01V01P04phr61b.wav|e oltre a questi diciamo grandi uomini e santi <inspiration> <eeh> al di sopra vedete <inspiration> <ehm> dei certosini.
-wavs/G01V01P04phr61c.wav|<inspiration> che si intervallano con delle figure femminili che sono delle allegorie di virtu'.
-wavs/G01V01P04phr62.wav|Quindi potete leggere <inspiration> prudenza <inspiration> <eeh> umilta' obbedienza <inspiration>.
-wavs/G01V01P04phr62b.wav|<ehm> onore merito eccetera quindi tutti quanti tutte quante virtu' <inspiration> che <sp> <eeh> il certosino tipo il certosino <inspiration>.
-wavs/G01V01P04phr62bc.wav|<ehm> il buon certosino <sp> deve possedere a maggior ragione <inspiration> <eeh> ancor di piu' <inspiration> <eeh>.
+wavs/G01V01P04phr61c.wav|<inspiration> che si intervallano connn delle figure femminili che sono delle allegorie di virtù.
+wavs/G01V01P04phr62.wav|Quindi potete leggere <inspiration> prudenza <inspiration> <eeh> umiltà obbedienza <inspiration>.
+wavs/G01V01P04phr62b.wav|<ehm> onore merito eccetera quindi tutti quanti tutte quante virtù <inspiration> che <sp> <eeh> il certosino tipo il certosino <inspiration>.
+wavs/G01V01P04phr62bc.wav|<ehm> il buon certosino <sp> deve possedere a maggior ragione <inspiration> <eeh> ancor di più <inspiration> <eeh>.
 wavs/G01V01P04phr62bcs.wav|i certosini e il priore che dovevano prendere le decisioni <inspiration> <sp> necessarie appunto alla vita.
-wavs/G01V01P04phr62bcsd.wav|<lp> <tongue-click> e alla sopravvivenza <inspiration> stessa della della Certosa.
+wavs/G01V01P04phr62bcsd.wav|<lp> <tongue-click> e allaaa sopravvivenza <inspiration> stessa dellaaa della Certosa.
 wavs/G01V01P04phr63.wav|<inspiration> ho dimenticato di <unclear> ve lo dico adesso visto che stiamo parlando della organizzazione generale <inspiration> <ehm>.
-wavs/G01V01P04phr63b.wav|della Certosa di San Martino in particolare <inspiration> di solito nelle certose c'e' un <sp> procuratore quindi quella figura di cui abbiamo parlato prima.
-wavs/G01V01P04phr64.wav|<inspiration> nel caso di San Martino si parla di procuratori ce n'era piu' d'uno proprio perché <inspiration> la Certosa comunque era <lp> ricca come potete vedere anche insomma.
-wavs/G01V01P04phr64b.wav|<ehm> da da da quello che avete visto fino a mo fino ad adesso credo che vi siete fatti un'idea <inspiration> <eeh> di quanto fosse <inspiration> <eeh> appunto.
+wavs/G01V01P04phr63b.wav|della Certosa di San Martino in particolare <inspiration> di solito nelle certose c'è unnn <sp> procuratore quindi quella figura di cui abbiamo parlato prima.
+wavs/G01V01P04phr64.wav|<inspiration> nel caso di San Martino si parla di procuratori ce n'era più d'uno proprio perché <inspiration> la Certosa comunque eraaa <lp> ricca come potete vedere anche insommaaa.
+wavs/G01V01P04phr64b.wav|<ehm> da da da quello che avete visto fino a mo fino ad adesso credo che vi siete fatti un'idea <inspiration> <eeh> di quanto fosse <inspiration> <eeh> appuntooo.
 wavs/G01V01P04phr64bc.wav|<ehm> <tongue-click> <eeh> ricca <eeh> la Certosa di San Martino.
-wavs/G01V01P05phr65.wav|Vi ho anticipato all'inizio <sp> che <lp> avremmo visto la zona <PRL> <inspiration> alle spalle dell'altare e insomma finalmente ci siamo ci siamo arrivati.
-wavs/G01V01P05phr66.wav|quindi ci troviamo <inspiration> all'interno del coro <inspiration> ancora una volta circondato da <sp> stalli dove per l'appunto prendevano posto <inspiration>.
+wavs/G01V01P05phr65.wav|Vi ho anticipato all'inizio <sp> che <lp> avremmo visto la zonaaa <inspiration> alle spalle dell'altare e insomma finalmente ci siamooo ci siamo arrivati.
+wavs/G01V01P05phr66.wav|quindi ci troviamo <inspiration> all'interno del coro <inspiration> ancoraaa una volta circondato da <sp> stalli dove per l'appunto prendevano posto <inspiration>.
 wavs/G01V01P05phr66b.wav|<ehm> i certosini che vivevano qui a San Martino.
-wavs/G01V01P05phr67.wav|<inspiration> che naturalmente erano obbligati <inspiration> a <sp> <eeh>.
-wavs/G01V01P05phr67b.wav|seguire le funzioni <inspiration> religiose piu' di una volta piu' di una volta al giorno.
-wavs/G01V01P05phr68.wav|La loro vita era di fatto scandita <inspiration> <eeh> da questi momenti <inspiration> <eeh> di di preghiera <sp> e <sp> d+ di canto.
+wavs/G01V01P05phr67.wav|<inspiration> che naturalmente eranooo obbligati <inspiration> a <sp> <eeh>.
+wavs/G01V01P05phr67b.wav|seguire le funzioni <inspiration> religiose più di una volta più di una volta al giorno.
+wavs/G01V01P05phr68.wav|La loro vita era di fatto scandita <inspiration> <eeh> da questi momenti <inspiration> <eeh> diii di preghiera <sp> e <sp> ddd+ di canto.
 wavs/G01V01P05phr69.wav|<lp> <ehm> in alcuni casi <inspiration> <eeh> le prime<ee/ insomma la prima funzione si svolgeva la mattina piuttosto presto.
-wavs/G01V01P05phr69b.wav|<inspiration> e l'ultima anche insomma in in serata.
-wavs/G01V01P05phr70.wav|<inspiration> se qualcuno di voi insomma <eeh> frequenta <sp> <cough> ancora <inspiration> <ehm> la chiesa <PRL> insomma comunque sa.
-wavs/G01V01P05phr70b.wav|<inspiration> che in alcuni momenti durante le funzioni bisogna/ <vocal> e' necessario alzarsi alzarsi in piedi.
-wavs/G01V01P05phr71.wav|<inspiration> allora io <ehm> spesso e volentieri provo a immaginarmi un certosino magari non piu' giovane o magari un po' assonnato insomma la sera un po' stanco <inspiration>.
+wavs/G01V01P05phr69b.wav|<inspiration> e l'ultima anche insomma innn in serata.
+wavs/G01V01P05phr70.wav|<inspiration> se qualcuno di voi insomma <eeh> frequenta <sp> <cough> ancora <inspiration> <ehm> la chiesaaa insomma comunque sa.
+wavs/G01V01P05phr70b.wav|<inspiration> che in alcuni momenti durante le funzioni bisogna/ <vocal> è necessario alzarsiii alzarsi in piedi.
+wavs/G01V01P05phr71.wav|<inspiration> allora io <ehm> spesso e volentieri provo a immaginarmi un certosino magari non più giovane ooo magari un po' assonnato insomma la sera un po' stanco <inspiration>.
 wavs/G01V01P05phr71b.wav|che non ce la fa <inspiration> a <sp> <eeh> come dire tenersi in piedi <sp> <tongue-click> senza senza ausilio e in questo senso <inspiration> <eeh>.
 wavs/G01V01P05phr71bc.wav|gli stalli di questo coro sono stati pensati per venire incontro anche a questa esigenza.
-wavs/G01V01P05phr72.wav|<inspiration> perché <eeh> se <eeh> guardate <lp> <eeh> appunto alcuni degli stalli per esempio quello che e' sollevato <lp> <tongue-click> <inspiration>.
-wavs/G01V01P05phr72b.wav|vedete che al di sotto c'e' questa sorta di tacchetta <breath> <lp> <tongue-click> <inspiration> che non a caso <eeh> si chiama misericordia.
+wavs/G01V01P05phr72.wav|<inspiration> perché <eeh> se <eeh> guardate <lp> <eeh> appunto alcuniii degli stalli per esempio quello che è sollevato <lp> <tongue-click> <inspiration>.
+wavs/G01V01P05phr72b.wav|vedete che al di sotto c'è questa sorta diii tacchetta <breath> <lp> <tongue-click> <inspiration> che non a caso <eeh> si chiama misericordia.
 wavs/G01V01P05phr73.wav|<lp> quindi serviva ai Certosini a <sp> diciamo appoggiarsi e a trovare un po' di conforto e un po' di riposo nelle parti delle <inspiration>.
-wavs/G01V01P05phr73b.wav|funzioni religiose in cui erano costretti <inspiration> a stare a stare all'in piedi.
+wavs/G01V01P05phr73b.wav|funzioni religiose in cui erano costretti <inspiration> a stareee a stare all'in piedi.
 wavs/G01V01P05phr74.wav|<inspiration> nella liturgia <eeh> nel+ nell'ordine certosino grande importanza <inspiration> era <ehm> dedicata insomma era.
-wavs/G01V01P05phr74b.wav|<inspiration> <eeh> data al al canto che e' simile a quello gregoriano pero' come sempre i certosini si <inspiration> contraddistinguono.
-wavs/G01V01P05phr74bc.wav|per una certa semplicita' per una certa sobrieta' e comunque stiamo parlando di canto perché <inspiration> <ehm>.
+wavs/G01V01P05phr74b.wav|<inspiration> <eeh> data alll al canto che è simile a quello gregoriano però come sempre i certosini si <inspiration> contraddistinguono.
+wavs/G01V01P05phr74bc.wav|per una certa semplicità per una certa sobrietà e comunque stiamo parlando di canto perché <inspiration> <ehm>.
 wavs/G01V01P05phr75.wav|dagli Statuti dalla regola sono proibiti <ehm> <sp> <tongue-click> gli strumenti musicali <inspiration> <tongue-click> quindi stiamo parlando proprio di <sp> voce.
-wavs/G01V01P05phr76.wav|<sp> <inspiration> e <sp> proprio questa importanza al <PRL> al canto <lp> e' dimostrata <sp>.
-wavs/G01V01P05phr76b.wav|in realta' dall'ambiente che e' sotto i nostri piedi <inspiration> qui ma anche dall'altra parte della sala <inspiration> vedete che c'e' una sorta di.
-wavs/G01V01P05phr76bc.wav|<inspiration> <ehm> <breath> interruzione nella decorazione di marmi commessi cioe' sono/ questi marmi sono traforati.
-wavs/G01V01P05phr77.wav|<inspiration> quindi se <ehm> venite piu' vicino o comunque anche da li' potete vedere <inspiration> che <inspiration> <sp> <ehm> <sp> sotto di noi in realta' c'e' una stanza.
-wavs/G01V01P05phr77b.wav|che non e' particolarmente affascinante perché e' <ehm> <sp> completamente vuota <inspiraiton> <eeh> e serve soltanto <sp> come cassa armonica.
-wavs/G01V01P05phr78.wav|<sp> quindi e' pensata <inspiration> per migliorare l'acustica e amplificare <inspiration>.
-wavs/G01V01P05phr78b.wav|le voci dei certosini che appunto qui si raccoglievano <sp> che si raccoglievano in preghiera.
-wavs/G01V01P05phr79.wav|<inspiration> naturalmente questa e' la parte <inspiration> piu' intima <lp> <tongue-click> <eeh> della della chiesa <inspiration>.
+wavs/G01V01P05phr76.wav|<sp> <inspiration> e <sp> proprio questa importanza alll al canto <lp> è dimostrata <sp>.
+wavs/G01V01P05phr76b.wav|in realtà dall'ambiente che è sotto i nostri piedi <inspiration> qui ma anche dall'altra parte della sala <inspiration> vedete che c'è una sorta diii.
+wavs/G01V01P05phr76bc.wav|<inspiration> <ehm> <breath> interruzione nella decorazione di marmi commessi cioè sono/ questi marmi sono traforati.
+wavs/G01V01P05phr77.wav|<inspiration> quindi se <ehm> venite più vicino o comunque anche da lì potete vedere <inspiration> che <inspiration> <sp> <ehm> <sp> sotto di noi in realtà c'è una stanza.
+wavs/G01V01P05phr77b.wav|che non è particolarmente affascinante perché è <ehm> <sp> completamente vuota <inspiraiton> <eeh> e serve soltanto <sp> come cassa armonica.
+wavs/G01V01P05phr78.wav|<sp> quindi è pensata <inspiration> per migliorare l'acustica e amplificare <inspiration>.
+wavs/G01V01P05phr78b.wav|le voci dei certosini che appunto qui si raccoglievanooo <sp> che si raccoglievano in preghiera.
+wavs/G01V01P05phr79.wav|<inspiration> naturalmente questa è la parte <inspiration> più intima <lp> <tongue-click> <eeh> dellaaa della chiesa <inspiration>.
 wavs/G01V01P05phr79b.wav|tenete presente che naturalmente l'accesso <lp>.
-wavs/G01V01P05phr79bc.wav|a questa chiesa non era permesso a tutti pensate per esempio il caso piu' eclatante alle donne ovviamente le donne <inspiration> non potevano in nessun modo <inspiration>.
-wavs/G01V01P05phr79bcd.wav|<eeh> arrivare fino a chi/ fino a qui anzi in verita' non entravano mai in Certosa.
+wavs/G01V01P05phr79bc.wav|a questa chiesa non era permesso a tutti pensate per esempio il caso più eclatante alle donne ovviamente le donne <inspiration> nonnn potevano in nessun modo <inspiration>.
+wavs/G01V01P05phr79bcd.wav|<eeh> arrivare fino a chi/ fino a qui anzi in verità non entravano mai in Certosa.
 wavs/G01V01P05phr80.wav|non so se quando <inspiration> siete entrati <inspiration> avete fatto caso che sul/ al fatto che sul piazzale <sp>.
-wavs/G01V01P05phr80b.wav|<inspiration> <tongue-click> in realta' c'e' la facciata di una chiesa <lp> non so se l'avete se l'avete notato.
-wavs/G01V01P05phr81.wav|e' vero che adesso ci sono i ponteggi e quindi e' tutto un po'<oo> un po' coperto <inspiration> <eeh> pero' li' c'e' la cosiddetta Chiesa delle donne.
-wavs/G01V01P05phr82.wav|<lp> <tongue-click> quindi per farvi capire che insomma <inspiration> <ehm> le modalita' <sp> di accesso <eeh> alla Certosa erano <lp> <tongue-click>.
-wavs/G01V01P05phr82b.wav|differenziate diciamo <inspiration> <eeh> diciamo cosi' <inspiration> e in questa parte intima <inspiration> <ehm>.
+wavs/G01V01P05phr80b.wav|<inspiration> <tongue-click> in realtà c'è la facciata di una chiesa <lp> non so se l'aveteee se l'avete notato.
+wavs/G01V01P05phr81.wav|è vero che adesso ci sono i ponteggi e quindi è tutto un po'<oo> un po' coperto <inspiration> <eeh> però lì c'è la cosiddetta Chiesa delle donne.
+wavs/G01V01P05phr82.wav|<lp> <tongue-click> quindi per farvi capire che insomma <inspiration> <ehm> le modalità <sp> di accesso <eeh> alla Certosa erano <lp> <tongue-click>.
+wavs/G01V01P05phr82b.wav|differenziate diciamooo <inspiration> <eeh> diciamo così <inspiration> e in questa parte intima <inspiration> <ehm>.
 wavs/G01V01P05phr83.wav|della della Chiesa oltre a ricorrere <inspiration> lo stemma appunto <inspiration> dei certosini che potete vedere per esempio <inspiration> <eeh>.
-wavs/G01V01P05phr83b.wav|li' <ehm> alla mia alla mia destra <inspiration> naturalmente il coro e' decorato <inspiration>.
+wavs/G01V01P05phr83b.wav|lì <ehm> alla miaaa alla mia destra <inspiration> naturalmente il coro è decorato <inspiration>.
 wavs/G01V01P05phr83bc.wav|con alcuni grandi <eeh> capolavori <inspiration> <eeh> della pittura del momento.
-wavs/G01V01P05phr84.wav|tanto per dirne una proprio di fronte <inspiration> <ehm> a me <sp> proprio di fronte <sp> <ehm> a me si+ c'e' un'Adorazione dei pastori <inspiration> <eeh>.
+wavs/G01V01P05phr84.wav|tanto per dirne una proprio di fronte <inspiration> <ehm> a me <sp> proprio di fronteee <sp> <ehm> a me si+ c'è un'Adorazione dei pastori <inspiration> <eeh>.
 wavs/G01V01P05phr84b.wav|realizzata da <eeh> Guido Reni <inspiration> <eeh> emiliano all'epoca <inspiration> campione del classicismo non plus ultra della pittura.
-wavs/G01V01P05phr85.wav|<inspiration> in realta' Guido non non viene qui per dipingere <inspiration> <eeh> per dipingere la tela ma la tela arriva poi direttamente <inspiration>.
-wavs/G01V01P05phr85b.wav|dall'Emilia qui a Napoli ma vi assicuro proprio <sp> carte carte false per avere per avere un Guido un Guido Reni.
-wavs/G01V01P05phr86.wav|<inspiration> del resto ve l'ho detto anche <inspiration> <ehm> Lanfranco era Emiliano all'epoca <inspiration> <lp> <tongue-click> gli emiliani allievi piu' o meno diretti <inspiration>.
+wavs/G01V01P05phr85.wav|<inspiration> in realtà Guido non non viene qui per dipingereee <inspiration> <eeh> per dipingere la tela ma la tela arriva poi direttamente <inspiration>.
+wavs/G01V01P05phr85b.wav|dall'Emilia qui a Napoli ma vi assicuro proprio <sp> carteee carte false per avereee per avere un Guido un Guido Reni.
+wavs/G01V01P05phr86.wav|<inspiration> del resto ve l'ho detto anche <inspiration> <ehm> Lanfranco era Emiliano all'epoca <inspiration> <lp> <tongue-click> gli emiliani allievi più o meno diretti <inspiration>.
 wavs/G01V01P05phr86b.wav|dei Carracci erano davvero considerati <inspiration> <ehm> il non plus ultra e qui a Napoli diedero in qualche modo anche qualche problema qualcuno si era risentito <inspiration> <eeh>.
-wavs/G01V01P05phr86bc.wav|della <ehm> insomma dell'operato <inspiration> <eeh> di questi pittori in citta'.
-wavs/G01V01P05phr87.wav|<inspiration> se avete per caso visitato <breath> <tongue-click> <eeh> la+ <ehm> la Cappella del Tesoro di San Gennaro <lp> <inspiration> <sp>.
-wavs/G01V01P05phr87b.wav|e' un altro di quei luoghi dove <sp> la cupola in realta' venne <eeh> affrescata da Lanfranco <sp> quindi ritorna il nostro bravo Lanfranco.
-wavs/G01V01P05phr88.wav|<inspiration> ma <eeh> il resto invece e' stato realizzato/ <inspiration> dipinti su rame e il resto degli affreschi da Domenichino <lp>.
-wavs/G01V01P05phr88b.wav|<tongue-click> altro appunto Emiliano che in verita' <inspiration> era stato chiamato in principio dalla Deputazione del tesoro <inspiration>.
-wavs/G01V01P05phr88bc.wav|provocando di fatto l'invidia di tutti i pittori <inspiration> dico napoletani ma in realta' <sp> per *le correttezza dovrei dire attivi a.
-wavs/G01V01P05phr88bcd.wav|Napoli visto che si parla anche di spagnoli come <inspiration> come Ribera per esempio <inspiration> che lavora anche lui qui <inspiration> <eeh> in in Certosa.
-wavs/G01V01P05phr89.wav|<inspiration> <ehm> piu'/ tra poco vedremo uno dei suoi dipinti ma per esempio <lp> <tongue-click> anche <inspiration> questi profeti <inspiration> che poi voi potete vedere appunto lungo.
-wavs/G01V01P05phr89b.wav|<inspiration> <eeh> la navata della chiesa furono realizzati appunto da questo <inspiration> <eeh> pittore <eeh> spagnolo attivo attivo qui a Napoli.
+wavs/G01V01P05phr86bc.wav|dellaaa <ehm> insomma dell'operato <inspiration> <eeh> di questi pittoriii in città.
+wavs/G01V01P05phr87.wav|<inspiration> se avete per caso visitatooo <breath> <tongue-click> <eeh> la+ <ehm> la Cappella del Tesoro di San Gennaro <lp> <inspiration> <sp>.
+wavs/G01V01P05phr87b.wav|è un altro di quei luoghi dove <sp> la cupola in realtà venneee <eeh> affrescata da Lanfranco <sp> quindi ritorna il nostro bravo Lanfranco.
+wavs/G01V01P05phr88.wav|<inspiration> ma <eeh> il resto invece è stato realizzato/ <inspiration> dipinti su rame e il resto degli affreschi da Domenichino <lp>.
+wavs/G01V01P05phr88b.wav|<tongue-click> altrooo appunto Emiliano che in verità <inspiration> era stato chiamato in principio dalla Deputazione del tesoro <inspiration>.
+wavs/G01V01P05phr88bc.wav|provocando di fatto l'invidia di tutti i pittori <inspiration> dico napoletani ma in realtà <sp> per *le correttezza dovrei dire attivi a.
+wavs/G01V01P05phr88bcd.wav|Napoli visto che si parla anche di spagnoli comeee <inspiration> come Ribera per esempio <inspiration> che lavora anche lui qui <inspiration> <eeh> innn in Certosa.
+wavs/G01V01P05phr89.wav|<inspiration> <ehm> più/ tra poco vedremo uno dei suoi dipinti ma per esempio <lp> <tongue-click> anche <inspiration> questi profeti <inspiration> che poi voi potete vedere appunto lungo.
+wavs/G01V01P05phr89b.wav|<inspiration> <eeh> la navata della chiesa furono realizzati appunto da questo <inspiration> <eeh> pittore <eeh> spagnolo attivooo attivo qui a Napoli.
 wavs/G01V01P06phr90.wav|<tongue-click> allora dal coro <inspiration> <eeh> ci siamo spostati e abbiamo attraversato la sacrestia <inspiration> che <ehm> questa volta.
-wavs/G01V01P06phr90b.wav|<inspiration> <eeh> la sala non abbiamo visto piu' gli stalli insomma <inspiration> ma <ehm> all'interno della sacrestia ci  sono solamente armadi.
+wavs/G01V01P06phr90b.wav|<inspiration> <eeh> la sala non abbiamo visto più gli stalli insomma <inspiration> ma <ehm> all'interno della sacrestia ci sono solamente armadi.
 wavs/G01V01P06phr91.wav|armadi che chiaramente contenevano tutte le suppellettili <inspiration> <eeh> sacre necessarie alla liturgia che si svolgeva qui in Certosa <inspiration> <vocal>.
-wavs/G01V01P06phr91b.wav|anche *quelli armadi non <PRL> <PRL> diciamo Ikea.
+wavs/G01V01P06phr91b.wav|anche *quelli armadi nonnn diciamooo Ikea.
 wavs/G01V01P06phr92.wav|<laughter> ma al contrario veramente <inspiration> realizzati da alcuni <inspiration> <ehm>.
 wavs/G01V01P06phr92b.wav|artisti artigiani del Nord del Nord Europa che insomma passavano per essere anche loro il non plus ultra in questo tipo di <inspiration> di tecnica.
 wavs/G01V01P06phr93.wav|<inspiration> <sp> e <sp> <ehm> <lp> passiamo in un certo senso da un caveau a un altro <sp> <inspiration> quindi dalla sacrestia come vi dicevo che <sp> <eeh>.
-wavs/G01V01P06phr93b.wav|custodiva quel tipo di di oggetti al Tesoro.
+wavs/G01V01P06phr93b.wav|custodiva quel tipo diii di oggetti al Tesoro.
 wavs/G01V01P06phr94.wav|<lp> <tongue-click> varcando la soglia di questa sala non so se vi siete accorti che sulla vostra sinistra <inspiration> ce n'era un'altra <inspiration> <sp> c'era una porta <sp> <inspiration>.
-wavs/G01V01P06phr94b.wav|che conduceva a una  stanza simile a questa ma piu' piccola <sp> <inspiration> <tongue-click> in realta' quello e' <lp> il Tesoro vecchio.
+wavs/G01V01P06phr94b.wav|che conduceva a una stanza simile a questa ma più piccola <sp> <inspiration> <tongue-click> in realtà quello è <lp> il Tesoro vecchio.
 wavs/G01V01P06phr95.wav|<inspiration> quindi in un primo momento i tesori per l'appunto della Certosa <sp> venivano custoditi in quel luogo <inspiration>.
-wavs/G01V01P06phr95b.wav|poi in realta' con l'andar del tempo ci si e' accorti che <sp> si aveva bisogno di un'ulteriore <inspiration> <eeh>.
-wavs/G01V01P06phr95bc.wav|sala aggiuntiva e si viene creare quella che noi chiamiamo per l'appunto quella del del Tesoro nuovo che e' <sp> in pratica la principale questa sorta di <inspiration>.
+wavs/G01V01P06phr95b.wav|poi in realtà con l'andar del tempo ci si è accorti che <sp> si aveva bisogno di un'ulteriore <inspiration> <eeh>.
+wavs/G01V01P06phr95bc.wav|sala aggiuntiva e si viene creare quella che noi chiamiamo per l'appunto quella delll del Tesorooo nuovo che è <sp> in pratica la principale questa sorta di <inspiration>.
 wavs/G01V01P06phr95bcd.wav|caveau <sp> per l'appunto <inspiration> di questa ricchissima <sp> <tongue-click> Certosa.
-wavs/G01V01P06phr96.wav|<inspiration> <lp> <tongue-click> Quindi <inspiration> <eeh> tutto intorno a noi ci sono questi armadi <inspiration> <ehm> di noce <inspiration> ma se guardate in realta' vicino all'altare <inspiration>.
-wavs/G01V01P06phr96b.wav|<ehm> <tongue-click> <ll>la forma dei contenitori <inspiration> cambia <breath> non abbiamo piu' degli armadi <lp> <tongue-click> chiusi <inspiration>.
-wavs/G01V01P06phr96bc.wav|ma abbiamo queste <breath> <sp> teche sorta di teche in in ebano <inspiration> non so se riuscite immaginare che cosa potevano contenere.
+wavs/G01V01P06phr96.wav|<inspiration> <lp> <tongue-click> Quindi <inspiration> <eeh> tutto intorno a noi ci sono questi armadi <inspiration> <ehm> di noce <inspiration> ma se guardate in realtà vicino all'altare <inspiration>.
+wavs/G01V01P06phr96b.wav|<ehm> <tongue-click> <ll>la forma dei contenitori <inspiration> cambia <breath> non abbiamo più degli armadi <lp> <tongue-click> chiusi <inspiration>.
+wavs/G01V01P06phr96bc.wav|ma abbiamo questeee <breath> <sp> teche sorta di teche innn in ebano <inspiration> non so se riuscite immaginare che cosa potevano contenere.
 wavs/G01V01P06phr97.wav|<breath> <lp> <tongue-click> domanda <breath> <lp> <vocal> <laughter> <lp> <inspiration> <lp> esatto.
-wavs/G01V01P06phr98.wav|<lp> <inspiration> perché <eeh> formalmente pur essendo appunto <lp> la Certosa di San Martino molto molto ricca <inspiration> <sp>.
-wavs/G01V01P06phr98b.wav|per un certosino per un monaco e' piu' importante il valore spirituale <tongue-click> quindi ecco che <inspiration>.
-wavs/G01V01P06phr99.wav|vicino <sp> all'altare <lp> <tongue-click> si trovano gli oggetti piu' preziosi e piu' sacri si trovavano perché come vedete adesso sono completamente vuote <inspiration>.
-wavs/G01V01P06phr100.wav|cioe' queste teche non erano altro che reliquiari quindi contenevano reliquie di santi quindi di fatto <inspiration> <sp> il tesoro piu' importante che si potesse mai <inspiraiton> <eeh> custodire.
-wavs/G01V01P06phr101.wav|<inspiration> <vocal> <eeh> tra  la+ al centro sull'altare invece un altro tipo di tesoro <inspiration> <eeh>.
+wavs/G01V01P06phr98.wav|<lp> <inspiration> perché <eeh> formalmente pur essendo appunto <lp> la Certosa di San Martino moltooo molto ricca <inspiration> <sp>.
+wavs/G01V01P06phr98b.wav|per un certosino per un monaco è più importante il valore spirituale <tongue-click> quindi ecco che <inspiration>.
+wavs/G01V01P06phr99.wav|vicino <sp> all'altare <lp> <tongue-click> si trovano gli oggetti più preziosi e più sacri si trovavano perché come vedete adesso sono completamente vuote <inspiration>.
+wavs/G01V01P06phr100.wav|cioè queste teche non erano altro che reliquiari quindi contenevano reliquie di santi quindi di fatto <inspiration> <sp> il tesoro più importante che si potesse mai <inspiraiton> <eeh> custodire.
+wavs/G01V01P06phr101.wav|<inspiration> <vocal> <eeh> tra la+ al centro sull'altare invece un altro tipo di tesoro <inspiration> <eeh>.
 wavs/G01V01P06phr101b.wav|sempre del pittore che abbiamo nominato poco tempo fa quindi Giuseppe Ribera <sp> <tongue-click> lo spagnolo.
-wavs/G01V01P06phr102.wav|<inspiration> <ehm> qui <eeh> e' molto chiaro <inspiration> <eeh> il fatto che <ehm>.
+wavs/G01V01P06phr102.wav|<inspiration> <ehm> qui <eeh> è molto chiaro <inspiration> <eeh> il fatto che <ehm>.
 wavs/G01V01P06phr102b.wav|lui avesse risentito <lp> <tongue-click> moltissimo della lezione di Cara+ di Caravaggio.
-wavs/G01V01P06phr103.wav|<inspiration> <eeh> Lo sfondo scuro in questo senso <inspiration> parla molto molto chiaro <inspiration> anche se qui <inspiration> <eeh> e' uno di quei dipinti dove <inspiration> <sp>.
+wavs/G01V01P06phr103.wav|<inspiration> <eeh> Lo sfondo scuro in questo senso <inspiration> parla moltooo molto chiaro <inspiration> anche se qui <inspiration> <eeh> è uno di quei dipinti dove <inspiration> <sp>.
 wavs/G01V01P06phr103b.wav|ha <ehm> alcuni accenti anche un po' crudi <sp> <ehm> della pittura di Caravaggio che Ribera insomma amava <inspiration> <eeh>.
-wavs/G01V01P06phr103bc.wav|amava <PRL> insistere diciamo su questi aspetti qui proprio <inspiration> e' piu' una restituzione diciamo piu' <eeh> delicata <inspiration> dei dei rapporti <inspiration> <eeh>.
-wavs/G01V01P06phr103bcd.wav|tra Cristo e  e la Madonna quindi <sp> <ehm> un po' piu' <eeh> mitigata diciamo come come emozioni.
-wavs/G01V01P06phr104.wav|<inspiration> <lp> <tongue-click> Il tesoro <inspiration> ritornando invece al Tesoro diciamo quello <inspiration> <eeh> non di natura spirituale.
+wavs/G01V01P06phr103bc.wav|amava insistere diciamo su questi aspetti qui proprio <inspiration> è più una restituzione diciamo più <eeh> delicata <inspiration> deiii dei rapporti <inspiration> <eeh>.
+wavs/G01V01P06phr103bcd.wav|tra Cristo eee e la Madonna quindi <sp> <ehm> un po' più <eeh> mitigata diciamo come come emozioni.
+wavs/G01V01P06phr104.wav|<inspiration> <lp> <tongue-click> Il tesoro <inspiration> ritornando invece al Tesoro diciamo quellooo <inspiration> <eeh> nonnn di naturaaa spirituale.
 wavs/G01V01P06phr104b.wav|in un certo in un certo senso tenete presente <inspiration> che venne <inspiration> fuso <breath> <lp> negli anni Novanta del millesettecento <inspiration>.
 wavs/G01V01P06phr104bc.wav|venne fatto fondere dal re Ferdinando quarto <inspiration> che aveva bisogno di fondi per finanziare la guerra con i francesi <inspiration> cosa che i certosini <inspiration> <eeh>.
-wavs/G01V01P06phr104bcd.wav|diciamo non non dimenticarono quindi si racconta che quando poi i francesi entrarono in citta' diciamo i certosini <inspiration> *gli accolsero aprirono <breath> <tongue-click>.
-wavs/G01V01P06phr104bcde.wav|le porte della Certosa a questi a <ehm> a questi stranieri.
-wavs/G01V01P06phr105.wav|<inspiration> tant'e' vero che poi anche quando <inspiration> <eeh> i *Borboni tornarono al potere i certosini anco+/ vennero tacciati <inspiration>.
-wavs/G01V01P06phr105b.wav|di essere giacobini e e repubblicani <inspiration> <lp>.
-wavs/G01V01P06phr106.wav|la/ <ehm> adesso naturalmente non c'e' inutile sforzarsi di trovare le chiavi degli armadi non troverete ovviamente nulla <lp> <tongue-click>.
-wavs/G01V01P06phr106b.wav|pero' sempre a proposito di tesori invece di altra altra natura <inspiration> uno dei piu' importanti e' proprio quello che abbiamo sulla nostra sulla nostra testa <inspiration>.
-wavs/G01V01P06phr107.wav|poco fa abbiamo parlato di Ribera <sp> ma <eeh> il campione vero della pittura napoletana della seconda meta' del Seicento <sp>.
-wavs/G01V01P06phr107b.wav|e' l'autore dell'affresco <sp> che potete vedere qui appunto <inspiration> nella cosiddetta <inspiration> <eeh> scodella sulla volta.
-wavs/G01V01P06phr108.wav|Sto parlando di Luca Giordano <lp> <tongue-click> Luca Giordano quindi e' <sp> la stella diciamo cosi' della pittura napoletana del secondo Seicento ma diciamo la verita' <inspiration>.
-wavs/G01V01P06phr108b.wav|uno dei piu' grandi <inspiration> pittori <inspiration> <eeh> a livello a livello europeo <lp> <tongue-click> basti pensare che <inspiration> <ehm>.
-wavs/G01V01P06phr109.wav|lui non si limita a lavorare solamente a Napoli dove noi entriamo e usciamo da ogni chiesa e in almeno una chiesa c'e' qualcosa fatta da Luca Giordano <inspiration>.
-wavs/G01V01P06phr109b.wav|ma <eeh> aveva lavorato anche <inspiration> <eeh> per esempio Firenze <inspiration> ma soprattutto aveva lavorato per molti anni in Spagna.
-wavs/G01V01P06phr110.wav|<lp> <tongue-click> tant'e' vero che lui realizza in realta' questo affresco proprio al suo ritorno <lp> <tongue-click> dalla Spagna <inspiration>.
-wavs/G01V01P06phr110b.wav|ed e' curioso perché <inspiration> <eeh> no+/ anche in questo caso <eeh> se non l'avete notati vi invito a vederli uscendo <inspiration> <ehm>.
+wavs/G01V01P06phr104bcd.wav|diciamo nonnn non dimenticarono quindi si racconta che quando poi i francesi entrarono in città diciamo i certosini <inspiration> *gli accolsero aprirono <breath> <tongue-click>.
+wavs/G01V01P06phr104bcde.wav|le porte della Certosa a questi aaa <ehm> a questi stranieri.
+wavs/G01V01P06phr105.wav|<inspiration> tant'è vero che poi anche quando <inspiration> <eeh> i *Borboni tornarono al potere i certosini anco+/ vennero tacciati <inspiration>.
+wavs/G01V01P06phr105b.wav|di essereee giacobini eee e repubblicani <inspiration> <lp>.
+wavs/G01V01P06phr106.wav|la/ <ehm> adesso naturalmente non c'èee inutile sforzarsi di trovare le chiavi degli armadi non troverete ovviamenteee nulla <lp> <tongue-click>.
+wavs/G01V01P06phr106b.wav|però sempre a proposito di tesori invece di altra altra natura <inspiration> uno dei più importanti è proprio quello che abbiamo sulla nostraaa sulla nostra testa <inspiration>.
+wavs/G01V01P06phr107.wav|poco fa abbiamo parlato di Ribera <sp> ma <eeh> il campione verooo della pittura napoletana della seconda metà del Seicento <sp>.
+wavs/G01V01P06phr107b.wav|è l'autore dell'affresco <sp> che potete vedere qui appunto <inspiration> nella cosiddetta <inspiration> <eeh> scodella sulla volta.
+wavs/G01V01P06phr108.wav|Sto parlando di Luca Giordano <lp> <tongue-click> Luca Giordano quindi è <sp> la stella diciamo così della pittura napoletana del secondo Seicento ma diciamo la verità <inspiration>.
+wavs/G01V01P06phr108b.wav|uno dei più grandi <inspiration> pittori <inspiration> <eeh> a livellooo a livello europeo <lp> <tongue-click> basti pensare che <inspiration> <ehm>.
+wavs/G01V01P06phr109.wav|lui non si limita a lavorare solamenteee a Napoli dove noi entriamo e usciamo da ogni chiesa e in almeno una chiesa c'è qualcosa fatta da Luca Giordano <inspiration>.
+wavs/G01V01P06phr109b.wav|ma <eeh> aveva lavorato ancheee <inspiration> <eeh> per esempio Firenze <inspiration> ma soprattutto aveva lavorato per molti anni in Spagna.
+wavs/G01V01P06phr110.wav|<lp> <tongue-click> tant'è vero che lui realizza in realtà questo affresco proprio al suo ritorno <lp> <tongue-click> dalla Spagna <inspiration>.
+wavs/G01V01P06phr110b.wav|ed è curioso perché <inspiration> <eeh> no+/ anche in questo caso <eeh> se non l'avete notati vi invito a vederli uscendo <inspiration> <ehm>.
 wavs/G01V01P06phr110bc.wav|proprio prima di entrare all'interno del Tesoro <inspiration> <ehm> ci sono due dipinti <sp>.
-wavs/G01V01P06phr110bcd.wav|sempre di Luca Giordano uno con la vocazione di San Pietro e uno con la vocazione di San Matteo <inspiration> che lui aveva realizzato in realta' in eta' giovanile.
+wavs/G01V01P06phr110bcd.wav|sempre di Luca Giordano uno con la vocazione di San Pietro e uno con la vocazione di San Matteo <inspiration> che lui aveva realizzato in realtà in etàaa giovanile.
 wavs/G01V01P06phr111.wav|<inspiration> quindi ritorna <unclear> in un certo senso potremmo dire che lavora all'inizio della sua carriera <eeh> qui a San Martino e la conclude <inspiration> <lp>.
-wavs/G01V01P06phr112.wav|sempre qui <breath> <sp> <tongue-click> questo con una formula un po' pomposa che pero' ci piace e funziona e' il suo testamento artistico <inspiration>.
-wavs/G01V01P06phr112b.wav|cioe' questa e' la sua ultima <inspiration> grande opera <inspiration> che con questi colori.
-wavs/G01V01P06phr112bc.wav|<inspiration> <ehm> leggeri <inspiration> anticipa quello che noi chiameremo Rococo'.
-wavs/G01V01P06phr113.wav|<breath> <lp> <tongue-click> questa tendenza appunto tipica <inspiration> del primo del primo Settecento che cosa rappresenta questo <lp> affresco.
-wavs/G01V01P06phr113b.wav|<inspiration> <lp> o <sp> chi e' <lp> il protagonista di questo affresco <sp>.
-wavs/G01V01P06phr113bc.wav|vi sfido insomma <laughter> a riconoscerlo o riconoscerla.
-wavs/G01V01P06phr114.wav|<inspiration> <sp> in realta' la scena e' piuttosto affollata sono raccontati <inspiration> diversi <inspiration> <ehm>.
-wavs/G01V01P06phr114b.wav|episodi dell'Antico dell'Antico Testamento ma in realta' <inspiration> noi tradizionalmente identifichiamo come il personaggio chiave <inspiration>.
-wavs/G01V01P06phr114bc.wav|dell'affresco quello che e' <sp> in pratica <lp> quasi sulla mia testa <lp> <tongue-click> la donna con il drappo azzurro <lp> <tongue-click> <inspiration>.
+wavs/G01V01P06phr112.wav|sempre qui <breath> <sp> <tongue-click> questo con una formula un po' pomposa che però ci piace e funziona è il suo testamento artistico <inspiration>.
+wavs/G01V01P06phr112b.wav|cioè questa è la sua ultima <inspiration> grande opera <inspiration> che con questi coloriii.
+wavs/G01V01P06phr112bc.wav|<inspiration> <ehm> leggeri <inspiration> anticipa quello che noi chiameremo Rococò.
+wavs/G01V01P06phr113.wav|<breath> <lp> <tongue-click> questa tendenza appunto tipica <inspiration> del primooo del primo Settecento che cosa rappresenta questo <lp> affresco.
+wavs/G01V01P06phr113b.wav|<inspiration> <lp> o <sp> chi è <lp> il protagonista di questo affresco <sp>.
+wavs/G01V01P06phr113bc.wav|vi sfido insommaaa <laughter> a riconoscerlo o riconoscerla.
+wavs/G01V01P06phr114.wav|<inspiration> <sp> in realtà la scena è piuttosto affollata sono raccontati <inspiration> diversi <inspiration> <ehm>.
+wavs/G01V01P06phr114b.wav|episodi dell'Antico dell'Antico Testamento ma in realtà <inspiration> noi tradizionalmente identifichiamo come il personaggio chiave <inspiration>.
+wavs/G01V01P06phr114bc.wav|dell'affresco quello che è <sp> in pratica <lp> quasi sulla mia testa <lp> <tongue-click> la donna con il drappo azzurro <lp> <tongue-click> <inspiration>.
 wavs/G01V01P06phr114bcd.wav|che stringe nella mano <lp> <tongue-click> una testa <breath> <lp> <tongue-click>.
-wavs/G01V01P06phr115.wav|Si tratta di Giuditta <lp> <inspiration> Giuditta <vocal> eroina ebrea che <ehm> <sp> per sconfiggere <breath> <inspiration> il.
-wavs/G01V01P06phr115b.wav|generale Oloferne che era proprio ritenuto imbattibile le avevano provate tutte per per batterlo ma non c'erano riusciti <inspiration> di fatto si fa <inspiration> <eeh>.
+wavs/G01V01P06phr115.wav|Si tratta di Giuditta <lp> <inspiration> Giuditta <vocal> eroinaaa ebrea che <ehm> <sp> per sconfiggere <breath> <inspiration> il.
+wavs/G01V01P06phr115b.wav|generale Oloferne che era proprio ritenuto imbattibile le avevano provate tutte perrr per batterlo ma non c'erano riusciti <inspiration> di fatto si fa <inspiration> <eeh>.
 wavs/G01V01P06phr115bc.wav|sposare <lp> <tongue-click> da Oloferne lo fa ubriacare durante il banchetto di nozze e poi gli taglia <sp>.
 wavs/G01V01P06phr115bcd.wav|gli taglia la testa <sp> liberando finalmente il popolo ebreo.
-wavs/G01V01P06phr116.wav|<inspiration> in realta' proprio di fronte a Giuditta dall'altro lato <inspiration> potete vedere che c'e' una tenda <sp> <inspiration> dove.
-wavs/G01V01P06phr116b.wav|in verita' si vede <sp> il cadavere <inspiration> di Oloferne ancora <lp> sanguinante <inspiration>.
+wavs/G01V01P06phr116.wav|<inspiration> in realtà proprio di fronte a Giuditta dall'altro lato <inspiration> potete vedere che c'è una tenda <sp> <inspiration> dove.
+wavs/G01V01P06phr116b.wav|in verità si vede <sp> il cadavere <inspiration> di Oloferne ancora <lp> sanguinante <inspiration>.
 wavs/G01V01P06phr116bc.wav|e tutti i compagni appunto del generale che si accorgono <lp> della morte del loro comandante che si insomma <inspiration> si danno si danno alla fuga.
 wavs/G01V01P06phr117.wav|<inspiration> quindi anche nei quattro angoli <inspiration> sono raccont+ ci sono rappresentate alcune <breath> <lp> eroine femminili <breath> <tongue-click> <eeh> della Bibbia ma in questo caso appunto <inspiration>.
-wavs/G01V01P06phr117b.wav|Giuditta e' proprio <inspiration> <eeh> come dire il personaggio il personaggio <inspiration> <eeh> principale.
-wavs/G01V01P06phr118.wav|<inspiration> Luca Giordano <inspiration> <eeh> aveva uno stile estremamente versatile.
+wavs/G01V01P06phr117b.wav|Giuditta è proprio <inspiration> <eeh> come dire il personaggio il personaggiooo <inspiration> <eeh> principale.
+wavs/G01V01P06phr118.wav|<inspiration> Luca Giordano <inspiration> <eeh> aveva uno stile estremamenteee versatile.
 wavs/G01V01P06phr119.wav|<breath> <tongue-click> Lui era capace davvero di di far tutto se sempre uscendo farete caso <inspiration> ai due dipinti che di <ehm>.
 wavs/G01V01P06phr119b.wav|di cui vi parlavo prima vedrete <inspiration> <ehm> immediatamente <inspiration> <tongue-click> <eeh> la differenza di stile quindi non solo <lp> <ehm>.
-wavs/G01V01P06phr119bc.wav|la sua capacita' insomma di variare ma anche chiaramente la sua <inspiration> maturazione <inspiration> <eeh> come artista.
-wavs/G01V01P06phr120.wav|<inspiration> il soprannome di Luca <inspiration> mi piace sempre ricordarlo e' curioso lo chiamavano Luca Fa Presto <lp> <tongue-click>.
-wavs/G01V01P06phr120b.wav|perché <inspiration> <eeh> proprio per questa sua non era soltanto versatile ma anche molto rapido.
-wavs/G01V01P06phr121.wav|<lp> <inspiration> Chiaramente aveva con sé <ehm> degli aiutanti aveva una bottega numerosa <inspiration> pronta a dargli a dargli una mano.
-wavs/G01V01P06phr122.wav|ciononostante appunto si e' sempre *contraddistinguo *constraddistinto per una grande <inspiration> <eeh> facilita'.
-wavs/G01V01P06phr122b.wav|<lp> sia nell'invenzione <inspiration> sia proprio nella nella resa pittorica nella sua velocita' <inspiration> nel ne+/ <ehm> e per questo poi abbiamo anche una produzione cosi' <inspiration> <eeh>.
-wavs/G01V01P06phr122bc.wav|ampia di questo <inspiration> <eeh> pittore cosi' <inspiration> <eeh> straordinario.
+wavs/G01V01P06phr119bc.wav|la sua capacità insomma di variare ma anche chiaramente la sua <inspiration> maturazione <inspiration> <eeh> come artista.
+wavs/G01V01P06phr120.wav|<inspiration> il soprannome di Luca <inspiration> mi piace sempre ricordarlo è curioso lo chiamavano Luca Fa Presto <lp> <tongue-click>.
+wavs/G01V01P06phr120b.wav|perché <inspiration> <eeh> proprio per questa suaaa non era soltanto versatile ma anche molto rapido.
+wavs/G01V01P06phr121.wav|<lp> <inspiration> Chiaramente avevaaa con sé <ehm> degli aiutanti aveva una bottega numerosa <inspiration> pronta a dargli a dargli una mano.
+wavs/G01V01P06phr122.wav|ciononostante appunto si è sempre *contraddistinguo *constraddistinto per una grande <inspiration> <eeh> facilità.
+wavs/G01V01P06phr122b.wav|<lp> sia nell'invenzione <inspiration> sia proprio nellaaa nella resa pittorica nella sua velocità <inspiration> nel ne+/ <ehm> e per questo poi abbiamo anche una produzione così <inspiration> <eeh>.
+wavs/G01V01P06phr122bc.wav|ampia di questo <inspiration> <eeh> pittore così <inspiration> <eeh> straordinario.
