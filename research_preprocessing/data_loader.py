@@ -46,6 +46,14 @@ class EafReader():
                 for k in el.findall('./ANNOTATION/ALIGNABLE_ANNOTATION'):
                     annot_df.append(k.attrib)
                     annot.append(k.find('ANNOTATION_VALUE').text)
+        try:
+            assert len(annot_df) > 0
+        except:
+            raise Exception(f"\n\nannot_df is empty, maybe the file {self.filename} has no {attribute}?")
+        try:
+            assert len(annot) > 0
+        except:
+            raise Exception(f"\n\nannot is empty, maybe the file {self.filename} has no {attribute}?")
         return annot, annot_df
 
     def dataframe_creator(self,annot,AnnotDf,annot_type='dstr'):

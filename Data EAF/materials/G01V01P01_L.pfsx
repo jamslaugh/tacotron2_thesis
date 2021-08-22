@@ -94,38 +94,38 @@
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>681062</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>682577</Long>
+        <Long>7601</Long>
     </pref>
     <prefGroup key="TierColors">
-        <pref key="syll">
-            <Object class="java.awt.Color">0,0,90</Object>
-        </pref>
         <pref key="ORT">
             <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+        <pref key="syll">
+            <Object class="java.awt.Color">0,0,90</Object>
         </pref>
         <pref key="Utterance">
             <Object class="java.awt.Color">90,160,0</Object>
         </pref>
-        <pref key="default">
-            <Object class="java.awt.Color">160,90,90</Object>
-        </pref>
         <pref key="dml">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
+        <pref key="default">
+            <Object class="java.awt.Color">160,90,90</Object>
+        </pref>
         <pref key="PC">
             <Object class="java.awt.Color">160,160,90</Object>
-        </pref>
-        <pref key="IP">
-            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="IPpos">
             <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="phn">
             <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+        <pref key="IP">
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="phr">
             <Object class="java.awt.Color">90,160,160</Object>
