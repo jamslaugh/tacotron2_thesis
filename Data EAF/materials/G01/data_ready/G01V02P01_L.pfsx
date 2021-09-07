@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1550,838</Object>
+        <Object class="java.awt.Dimension">1536,814</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>
@@ -14,7 +14,7 @@
         <String>default</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>791160</Long>
+        <Long>295675</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>68.00009</Float>
@@ -70,38 +70,38 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">-7,-7</Object>
+        <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>68.00009</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>780050</Long>
+        <Long>286005</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>C:/Users/hellf/OneDrive - Università di Napoli Federico II/Tesi/Data EAF/materials/G01/V02/G01V02P01.wav</String>
+            <String>C:/Users/hellf/OneDrive - Università di Napoli Federico II/Tesi/Data EAF/materials/G01/data_ready/G01V02P01.wav</String>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>771646</Long>
+        <Long>47632</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>780050</Long>
+        <Long>64871</Long>
     </pref>
     <prefGroup key="TierColors">
-        <pref key="syll">
-            <Object class="java.awt.Color">160,90,0</Object>
+        <pref key="ORT">
+            <Object class="java.awt.Color">160,0,0</Object>
         </pref>
         <pref key="Utterance">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
-        <pref key="ORT">
-            <Object class="java.awt.Color">160,0,0</Object>
+        <pref key="syll">
+            <Object class="java.awt.Color">160,90,0</Object>
         </pref>
         <pref key="phn-1">
             <Object class="java.awt.Color">160,0,90</Object>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-08-21T20:51:02+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-08-31T18:14:21+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
             EXTRACTED_FROM="file:///C:/Users/LENOVO/Google Drive/Ricerca/PRIN 2015_CHROME/Materiale annotato_PRIN/Materiale finale/Work_in_progress/G01/G01V02/G01V02/Video_Pubblico/G01V02P03.mp4"
-            MEDIA_URL="file:///C:/Users/hellf/OneDrive - Università di Napoli Federico II/Tesi/Data EAF/materials/G01/V02/G01V02P03.wav"
+            MEDIA_URL="file:///C:/Users/hellf/OneDrive - Università di Napoli Federico II/Tesi/Data EAF/materials/G01/data_ready/G01V02P03.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./G01V02P03.wav"/>
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///C:/Users/LENOVO/Google Drive/Ricerca/PRIN 2015_CHROME/Materiale annotato_PRIN/Materiale finale/Work_in_progress/G01/G01V02/G01V02/Video_Guida/G01V02P03.mp4"
@@ -14,7 +14,7 @@
             MEDIA_URL="file:///C:/Users/LENOVO/Google Drive/Ricerca/PRIN 2015_CHROME/Materiale annotato_PRIN/Materiale finale/Work_in_progress/G01/G01V02/G01V02/Video_Pubblico/G01V02P03.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../../../../LENOVO/Google Drive/Ricerca/PRIN 2015_CHROME/Materiale annotato_PRIN/Materiale finale/Work_in_progress/G01/G01V02/G01V02/Video_Pubblico/G01V02P03.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:63b329f7-f1a0-4fb7-acaf-3bbe83179ebe</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">840</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">843</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -1695,8 +1695,10 @@
         <TIME_SLOT TIME_SLOT_ID="ts1676" TIME_VALUE="321692"/>
         <TIME_SLOT TIME_SLOT_ID="ts1677" TIME_VALUE="321910"/>
         <TIME_SLOT TIME_SLOT_ID="ts1678" TIME_VALUE="321910"/>
-        <TIME_SLOT TIME_SLOT_ID="ts1679" TIME_VALUE="322332"/>
-        <TIME_SLOT TIME_SLOT_ID="ts1680" TIME_VALUE="322332"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1679" TIME_VALUE="322328"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1680" TIME_VALUE="322328"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1681" TIME_VALUE="322332"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1682" TIME_VALUE="323628"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="ORT">
@@ -6476,6 +6478,12 @@
                 <ANNOTATION_VALUE>Bruno</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a842"
+                TIME_SLOT_REF1="ts1680" TIME_SLOT_REF2="ts1682">
+                <ANNOTATION_VALUE>&lt;silence&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="phr">
         <ANNOTATION>
@@ -6709,7 +6717,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a835"
                 TIME_SLOT_REF1="ts1470" TIME_SLOT_REF2="ts1497">
-                <ANNOTATION_VALUE>phr336</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>phr336b</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6737,9 +6745,9 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a840"
-                TIME_SLOT_REF1="ts1658" TIME_SLOT_REF2="ts1680">
-                <ANNOTATION_VALUE>phr341</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a843"
+                TIME_SLOT_REF1="ts1658" TIME_SLOT_REF2="ts1681">
+                <ANNOTATION_VALUE>phr341new</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>

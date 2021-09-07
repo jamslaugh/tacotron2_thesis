@@ -11,10 +11,10 @@
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>default</String>
+        <String>ORT</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>324000</Long>
+        <Long>288566</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>39.999996</Float>
@@ -76,22 +76,22 @@
         <Float>39.999996</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>318578</Long>
+        <Long>283540</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>C:/Users/hellf/OneDrive - Università di Napoli Federico II/Tesi/Data EAF/materials/G01/V02/G01V02P03.wav</String>
+            <String>C:/Users/hellf/OneDrive - Università di Napoli Federico II/Tesi/Data EAF/materials/G01/data_ready/G01V02P03.wav</String>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>275016</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1700</Long>
+        <Long>283540</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="ORT">
